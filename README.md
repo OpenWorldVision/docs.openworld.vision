@@ -1,4 +1,4 @@
-# CryptoWar Metaverse
+# [OpenWorld Metaverse](docs.openworld.vision)
 
 ## About US
 
