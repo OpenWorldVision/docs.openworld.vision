@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CryptoWar Metaverse](README.md)
+* [OpenWorld Metaverse](README.md)
   * [Game Story](cryptowar-metaverse/game-story.md)
   * [Business Model](cryptowar-metaverse/business-model.md)
 * [Getting Started](getting-started/README.md)
