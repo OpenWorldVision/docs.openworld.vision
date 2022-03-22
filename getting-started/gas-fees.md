@@ -1,8 +1,8 @@
 # Gas Fees
 
-Gas fees are the compulsory payout by the players to execute transactions in CryptoWar through using BNB in their wallet. These fees can be payable on Binance Smart Chain based on the use of Chainlink’s VRF technology and they serve as incentives for players to keep all entropy-based gameplay scenarios such as buying, selling, minting NFTs and battling as well secure and fair.
+Gas fees are the compulsory payout by the players to execute transactions in OpenWorld through using BNB in their wallet. These fees can be payable on Binance Smart Chain based on the use of Chainlink’s VRF technology and they serve as incentives for players to keep all entropy-based gameplay scenarios such as buying, selling, minting NFTs and battling as well secure and fair.
 
-In order to execute transaction and interact with the CryptoWar smart contracts, players are required to hold an amount of BNB in their MetaMAsk wallet.
+In order to execute transaction and interact with the OpenWorld smart contracts, players are required to hold an amount of BNB in their MetaMask wallet.
 
 The gas fees are transaction-based and usually cost around 0.0007 to 0.0010 BNB. However the amount of gas fees depends on the type and number of computations required to verify the transaction. For that reason, certain transactions such as claiming experience can get higher fee because of the complexity of the computation.
 
@@ -16,7 +16,7 @@ The actual gas cost for the transaction is around 0.002 BNB on average as displa
 
 Gas costs for transactions are subject to volatility depending on network traffic on the Binance Smart Chain.
 
-![](<../.gitbook/assets/2 (1).jpg>)
+![](../.gitbook/assets/Picture1.png)
 
 ## Recommended BNB
 

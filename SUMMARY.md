@@ -5,7 +5,7 @@
   * [Business Model](cryptowar-metaverse/business-model.md)
 * [Getting Started](getting-started/README.md)
   * [MetaMask Wallet Setup](getting-started/metamask-wallet-setup.md)
-  * [Purchasing xBlade](getting-started/purchasing-xblade.md)
+  * [Purchasing  OPEN](getting-started/purchasing-xblade.md)
   * [Gas Fees](getting-started/gas-fees.md)
   * [Multiple Accounts](getting-started/multiple-accounts.md)
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions/README.md)
