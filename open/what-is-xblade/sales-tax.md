@@ -1,7 +1,7 @@
 ---
 description: >-
-  When you sale xBlade on trading platform likes PancakeSwap, PooCoin,... You
-  have to pay 4.5% of total selling token as tax fee
+  When you sale OPEN on trading platform likes PancakeSwap, PooCoin,... You have
+  to pay 4.5% of total selling token as tax fee
 ---
 
 # Sales Tax
@@ -18,5 +18,4 @@ How sales tax will be used ?
 1. 25% to Reward pool ( both PvE and PvP ).
 2. 25% to Burn mechanism
 3. 25% to Dev fund to build new features in the future
-4. 25% to Marketing fund to promote CryptoWar project
-
+4. 25% to Marketing fund to promote OpenWorld project

@@ -17,16 +17,16 @@
 * [Social Links](other-links.md)
 * [Feedback & Change Log](https://cryptowar.feedy.app)
 
-## xBlade
+## OPEN
 
-* [What is xBlade?](xblade/what-is-xblade/README.md)
-  * [Spending xBlade](xblade/what-is-xblade/spending-xblade.md)
-  * [Obtaining xBlade](xblade/what-is-xblade/obtaining-xblade.md)
-  * [Staking](xblade/what-is-xblade/staking.md)
-  * [Oracle](xblade/what-is-xblade/oracle.md)
-  * [In-Game xBlade](xblade/what-is-xblade/in-game-xblade.md)
-  * [Sales Tax](xblade/what-is-xblade/sales-tax.md)
-* [Bond Sales](xblade/bond-sales.md)
+* [What is OPEN?](open/what-is-xblade/README.md)
+  * [Spending OPEN](open/what-is-xblade/spending-xblade.md)
+  * [Obtaining OPEN](open/what-is-xblade/obtaining-xblade.md)
+  * [Staking](open/what-is-xblade/staking.md)
+  * [Oracle](open/what-is-xblade/oracle.md)
+  * [In-Game OPEN](open/what-is-xblade/in-game-xblade.md)
+  * [Sales Tax](open/what-is-xblade/sales-tax.md)
+* [Bond Sales](open/bond-sales.md)
 
 ## 1ST MINI-GAME GAMEPLAY
 

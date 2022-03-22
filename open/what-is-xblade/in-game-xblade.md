@@ -1,10 +1,10 @@
-# In-Game xBlade
+# In-Game OPEN
 
 ![Time is money](<../../.gitbook/assets/image (2) (1) (1).png>)
 
-When you win a fight, you will get in game xBlade and you can use that xBlade to mint new heroes.&#x20;
+When you win a fight, you will get in game OPEN and you can use that OPEN to mint new heroes.
 
-If you want to withdraw xBlade:
+If you want to withdraw OPEN:
 
 * There will be 15% tax and reducing 1% every day
 * Every time you fight, the tax timer will increase 1 hour
