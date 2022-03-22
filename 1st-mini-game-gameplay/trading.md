@@ -3,14 +3,14 @@
 It appears that players may freely perform in-game transactions with one another outside the marketplace via the use of NFT smart contracts thanks to their own NFT assets. Trading characters by using NFT smart contracts may lead to 24-hour trading lock.
 
 {% hint style="info" %}
-Players should be aware that there are safety risks for players to make themselves a victim of scams or frauds when executing peer-to-peer transactions. Under no circumstance will CryptoWar team accept responsibility for any loss on players’ xBlade or NFTs in case they conduct peer-to-peer trade. For that reason, it is advisable that players had better carry on in-game transactions on CryptoWar marketplace in order to keep their trading secured.
+Players should be aware that there are safety risks for players to make themselves a victim of scams or frauds when executing peer-to-peer transactions. Under no circumstance will OpenWorld team accept responsibility for any loss on players’ OPEN or NFTs in case they conduct peer-to-peer trade. For that reason, it is advisable that players had better carry on in-game transactions on OpenWorld marketplace in order to keep their trading secured.
 {% endhint %}
 
 ## Trading Characters
 
-The character contract, which can be explored on the link below, is used to trade characters. It is worth noting that character contract is completely different from weapon contract. Further information on the character contract can be found here: [**CryptoWar Character Trading Contract**](https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract) ****&#x20;
+The character contract, which can be explored on the link below, is used to trade characters. It is worth noting that character contract is completely different from weapon contract. Further information on the character contract can be found here: [**OpenWorld Character Trading Contract**](https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract) \*\*\*\*
 
-0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B&#x20;
+0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B
 
 {% hint style="info" %}
 Players are warned to be on the alert for not trading weapons on the character contract.
@@ -40,7 +40,7 @@ Please note that the character’s account is the one connected to the contract
 
 The weapon contract, which can be viewed on the link below, is only applied to trade weapon. It is worth noting that weapon contract is completely different from character contract, empowering players to only trade weapons.
 
-Further information on the weapon contract can be discovered here: [**CryptoWar Weapon Trading Contract**](https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract)****
+Further information on the weapon contract can be discovered here: [**OpenWorld Weapon Trading Contract**](https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract)\*\*\*\*
 
 0x52683412f6Ea2B6302ceA8406EfF928510466c2c
 

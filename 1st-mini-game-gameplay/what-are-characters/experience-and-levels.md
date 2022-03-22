@@ -6,7 +6,7 @@ After joining , each player obtains their first character at level 1. Player mus
 
 To determine the eligibility of claim, gamers have to keep a copy of subsequent at the following link at
 
-[**CryptoWar Experience Calculator**](https://docs.google.com/spreadsheets/d/1auVAnRlsoxwKQTFX3\_ZZluteJ8DxeZIQio\_jLK21ijs/edit?usp=sharing)
+[**OpenWorld Experience Calculator**](https://docs.google.com/spreadsheets/d/1auVAnRlsoxwKQTFX3\_ZZluteJ8DxeZIQio\_jLK21ijs/edit?usp=sharing)
 
 A summary of experience measuring table can be found here:
 
@@ -16,11 +16,11 @@ A summary of experience measuring table can be found here:
 
 ## When to claim Experience ?
 
-Experience can be found in the Rewards bar after each battle, in the same spot as xBlade.
+Experience can be found in the Rewards bar after each battle, in the same spot as OPEN.
 
 If the character is under level 41, it is recommended that player claims XP when his or her character reaches the milestones to avoid paying gas fees for each transaction.
 
-Because of the increase in power, it appears to be more advantageous for each player to claim his or her XP at each subsequent level after overtaking this level, resulting in more xBlade gained through fight payouts.
+Because of the increase in power, it appears to be more advantageous for each player to claim his or her XP at each subsequent level after overtaking this level, resulting in more OPEN gained through fight payouts.
 
 ![](<../../.gitbook/assets/6 (1).jpg>)
 

@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/16 (1).jpg>)
 
-It goes without saying that weapons are an essential pillar of NFTs. To get engaged in the game, players are required to possess their own weapons which can be fully utilized for in-game transactions such as trading, obtaining xBlade and earning money. What differentiates the weapons from characters is the unbounded number of weapons in each account.
+It goes without saying that weapons are an essential pillar of NFTs. To get engaged in the game, players are required to possess their own weapons which can be fully utilized for in-game transactions such as trading, obtaining OPEN and earning money. What differentiates the weapons from characters is the unbounded number of weapons in each account.
 
 To keep weapon-minting-price under surveillance, please press on the “Forge” button in the Blacksmith tab for further information.
 
@@ -10,9 +10,9 @@ It is worth noting that each weapon is assigned a random element and a random ra
 
 For the time being, there is no method to adjust any of the weapon’s values.
 
-## CWW - CryptoWar Weapon
+## CWW - OpenWorld Weapon
 
-CWW stands for CryptoWar Weapon which is the weapon NFTs existing in your wallet.
+CWW stands for OpenWorld Weapon which is the weapon NFTs existing in your wallet.
 
 If you want your CWC to be visible to your MetaMask wallet, you may add the token through its contract address found below:
 
@@ -32,11 +32,11 @@ Due to the fact that its recovery speed is on a par with character stamina, dura
 
 ## Weapon Minting (Forging)
 
-Along with Reforging, minting weapons is the game’s primary xBlade sink. All xBlade expending on minting weapons is transferred directly to the contract handling fight payouts.
+Along with Reforging, minting weapons is the game’s primary OPEN sink. All OPEN expending on minting weapons is transferred directly to the contract handling fight payouts.
 
 There is no commitment that the weapon rarity is fetched by the certain amount of rolls. The harder each player tries the more they achieve.
 
-Weapon rarity is determined based on minting weapons. Further information on the rates of each rarity is elucidated at [forging](broken-reference).
+Weapon rarity is determined based on minting weapons. Further information on the rates of each rarity is elucidated at [forging](broken-reference/).
 
 ![](../../.gitbook/assets/18.jpg)
 

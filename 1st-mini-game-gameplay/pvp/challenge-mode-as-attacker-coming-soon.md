@@ -4,13 +4,13 @@ description: >-
   Heroes on the ring
 ---
 
-# Challenge Mode as Attacker
+# Challenge Mode as Attacker ( coming soon )
 
 First Select your Hero and Weapon
 
 ![](<../../.gitbook/assets/13 (1).jpg>)
 
-Then select opponent you want to fight, put in amount of Xblade you want to bet as below:
+Then select opponent you want to fight, put in amount of OPEN you want to bet as below:
 
 ![](../../.gitbook/assets/14.jpg)
 

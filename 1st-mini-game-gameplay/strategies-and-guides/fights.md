@@ -18,7 +18,7 @@ The range of enemies you are able to fight are randomized but still follow an un
 In case your stamina is about to be physically drained and players don’t get the upper hand of element trump, they are advocated to go into battles with enemies of other elements. Bonus or penalty will not be exercised if players fight with the same enemies or enemies with different elements. Besides, it is suggested that players should not engage in battles where they are at a disadvantage.
 {% endhint %}
 
-## &#x20;Refresh Monster List
+## Refresh Monster List
 
 You may get unlucky sometimes and get a batch full of monsters that you have no elemental advantage against. If you still have stamina, it is advised that you wait for a new randomized batch, which occur every 2 hours at UTC+0.
 
@@ -30,4 +30,4 @@ Monsters' power experiences a fluctuation of ±20% of the predicted value. For t
 
 The choice to target a high-powered enemy against a low-powered enemy boils down to choosing payout over win rate.
 
-Battling with high-powered enemies may possibly run the risk of failing the game but increase the chance of acquiring more experience as well as xBlade payout and vice versa. New players are highly recommended to select lower-powered enemies so as to maintain their xBlade payout and experience points.
+Battling with high-powered enemies may possibly run the risk of failing the game but increase the chance of acquiring more experience as well as OPEN payout and vice versa. New players are highly recommended to select lower-powered enemies so as to maintain their OPEN payout and experience points.

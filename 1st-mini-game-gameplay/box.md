@@ -4,7 +4,7 @@ description: Box is an NFT in CryptoWar
 
 # Box
 
-Currently the are 4 Boxes in the game with different function as below:&#x20;
+Currently the are 4 Boxes in the game with different function as below:
 
 1. **COMMON BOX has change to get:**
 
@@ -60,6 +60,4 @@ Currently the are 4 Boxes in the game with different function as below:&#x20;
 
 ![](<../.gitbook/assets/image (3).png>)
 
-
-
-You can purchase these Boxes at the Shop ingame by xBlade or xGem as you wish. Please notice that price of xBlade to purchase box will change as xBlade token price in the Market.
+You can purchase these Boxes at the Shop ingame by OPEN or xGem as you wish. Please notice that price of OPEN to purchase box will change as OPEN token price in the Market.

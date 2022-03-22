@@ -6,7 +6,7 @@ description: >-
 
 # Career Mode as Defender
 
-First, select your Hero and Weapon you want to place on the ring. Put in amount of match and total deposit you want to bet. Please remember that Total Deposit is at least = 210% Amount a match. For Ex : Amount of match is 10 xBlade so Total Deposit is 21 xBlade or more.
+First, select your Hero and Weapon you want to place on the ring. Put in amount of match and total deposit you want to bet. Please remember that Total Deposit is at least = 210% Amount a match. For Ex : Amount of match is 10 xBlade so Total Deposit is 21 OPEN or more.
 
 ![List Hero to Career Mode](<../../.gitbook/assets/10 (1).jpg>)
 
@@ -31,4 +31,3 @@ Once you accept the request and pay gas fee then wait for fight's result : Win o
 ![You Win](<../../.gitbook/assets/photo\_2022-01-05\_15-57-43 (1) (1).jpg>)
 
 ![You Lost](../../.gitbook/assets/photo\_2022-01-05\_15-57-53.jpg)
-

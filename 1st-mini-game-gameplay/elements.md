@@ -1,6 +1,6 @@
 # Elements
 
-Gamers in CryptoWar are empowered with weapon elements such as:
+Gamers in OpenWorld are empowered with weapon elements such as:
 
 • Fire
 

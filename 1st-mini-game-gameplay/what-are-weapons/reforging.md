@@ -1,6 +1,6 @@
 # Reforging
 
-Reforging weapons refers to the action of expanding xBlade tokens to burn a weapon into another, which eventually results in the disappearance of burnt weapon and an increase in the bonus power of target weapon. Along with Forging, reforging weapon is supposed to be one of the game’s primary xBlade sinks. When endeavoring to forge four or five-star weapons, players often acquire one or three-star weapons, which are fully employed in the reforging process to add a massive amounts of value to one of players’ preferred weapons.
+Reforging weapons refers to the action of expanding OPEN tokens to burn a weapon into another, which eventually results in the disappearance of burnt weapon and an increase in the bonus power of target weapon. Along with Forging, reforging weapon is supposed to be one of the game’s primary OPEN sinks. When endeavoring to forge four or five-star weapons, players often acquire one or three-star weapons, which are fully employed in the reforging process to add a massive amounts of value to one of players’ preferred weapons.
 
 ![](../../.gitbook/assets/3.jpg)
 
