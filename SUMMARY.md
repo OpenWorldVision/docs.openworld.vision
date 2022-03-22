@@ -74,5 +74,5 @@
 
 ***
 
-* [Play CryptoWar](https://play.cryptowar.network)
+* [Play OpenWorld](https://play.cryptowar.network)
 * [System Upgrade](system-upgrade.md)
