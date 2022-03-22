@@ -19,14 +19,14 @@
 
 ## OPEN
 
-* [What is OPEN?](open/what-is-xblade/README.md)
-  * [Spending OPEN](open/what-is-xblade/spending-xblade.md)
-  * [Obtaining OPEN](open/what-is-xblade/obtaining-xblade.md)
-  * [Staking](open/what-is-xblade/staking.md)
-  * [Oracle](open/what-is-xblade/oracle.md)
-  * [In-Game OPEN](open/what-is-xblade/in-game-xblade.md)
-  * [Sales Tax](open/what-is-xblade/sales-tax.md)
-* [Bond Sales](open/bond-sales.md)
+* [What is OPEN?](xblade/what-is-xblade/README.md)
+  * [Spending OPEN](xblade/what-is-xblade/spending-xblade.md)
+  * [Obtaining OPEN](xblade/what-is-xblade/obtaining-xblade.md)
+  * [Staking](xblade/what-is-xblade/staking.md)
+  * [Oracle](xblade/what-is-xblade/oracle.md)
+  * [In-Game OPEN](xblade/what-is-xblade/in-game-xblade.md)
+  * [Sales Tax](xblade/what-is-xblade/sales-tax.md)
+* [Bond Sales](xblade/bond-sales.md)
 
 ## 1ST MINI-GAME GAMEPLAY
 
