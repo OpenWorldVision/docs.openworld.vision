@@ -6,11 +6,11 @@
 
 #### Who We Are
 
-OpenWorld works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow.
+OpenWorld is a blockchain enabled open metaverse with a sound circular economy based on real monetary flow.
 
 #### What We Do
 
-OpenWorld envisions to open a new dimension for everyone to connect, play, express themselves, and find happiness.
+Our vision is to open a new dimension for everyone to connect, play, express themselves, and find happiness.
 
 #### What We Dream
 
