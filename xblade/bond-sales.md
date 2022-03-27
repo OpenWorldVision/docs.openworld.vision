@@ -6,7 +6,7 @@ description: >-
 
 # Bond Sales
 
-Bond site : [https://bond.cryptowar.network/#/](https://bond.cryptowar.network/#/)
+Bond site : [https://bond.openworld.vision/#/](https://bond.openworld.vision/#/)
 
 At Bond site of OpenWorld you now can buy OPEN with discount price under some specific terms:
 
