@@ -2,9 +2,7 @@
 
 *   **Telegram (official)**
 
-    * XBN x CryptoWar Global Chat: [https://t.me/elasticbitcoinxbt](https://t.me/elasticbitcoinxbt)
     * OpenWorld OPEN Global Chat: [https://t.me/openworldglobal](https://t.me/openworldglobal)
-    * XBN x Cryptowar Official Announcement : [https://t.me/elasticbitcoin](https://t.me/elasticbitcoin)
     * OpenWorld Official Announcement: [https://t.me/OpenWorldVision](https://t.me/OpenWorldVision)
 
     **Telegram (community-led)**
