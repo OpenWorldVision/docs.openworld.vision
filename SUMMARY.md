@@ -1,7 +1,7 @@
 # Table of contents
 
 * [OpenWorld Metaverse](README.md)
-  * [Game Story](cryptowar-metaverse/game-story.md)
+  * [Game Envision](readme/game-envision.md)
   * [Business Model](cryptowar-metaverse/business-model.md)
 * [Getting Started](getting-started/README.md)
   * [MetaMask Wallet Setup](getting-started/metamask-wallet-setup.md)
