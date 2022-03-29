@@ -7,13 +7,12 @@
 
 ![](<.gitbook/assets/telegram icon.png>) **Telegram (community-led)**
 
-* Vietnamese: [https://t.me/CryptoWarVietnamesegames](https://t.me/CryptoWarVietnamesegames)
-* Filipino: [https://t.me/Openworld\_Ph](https://t.me/Openworld\_Ph)
-* Nigerian : [https://t.me/ElasticbnbNigeria](https://t.me/ElasticbnbNigeria) / [https://t.me/nigeria\_xbn](https://t.me/nigeria\_xbn)
-* TÜRKİYE : [https://t.me/openworldturkiye](https://t.me/openworldturkiye)
-* Español: [https://t.me/xblade\_espanol](https://t.me/xblade\_espanol)
-* Chinese : [https://t.me/OpenWorldChinese](https://t.me/OpenWorldChinese)
-* XBN x Cryptowar : [https://twitter.com/elasticbitcoin](https://twitter.com/elasticbitcoin)
+* :flag\_vn:Vietnamese: [https://t.me/CryptoWarVietnamesegames](https://t.me/CryptoWarVietnamesegames)
+* :flag\_ph:Filipino: [https://t.me/Openworld\_Ph](https://t.me/Openworld\_Ph)
+* :flag\_ng:Nigerian : [https://t.me/ElasticbnbNigeria](https://t.me/ElasticbnbNigeria) / [https://t.me/nigeria\_xbn](https://t.me/nigeria\_xbn)
+* :flag\_tr:TÜRKİYE : [https://t.me/openworldturkiye](https://t.me/openworldturkiye)
+* :flag\_es:Español: [https://t.me/xblade\_espanol](https://t.me/xblade\_espanol)
+* :flag\_cn:Chinese : [https://t.me/OpenWorldChinese](https://t.me/OpenWorldChinese)
 
 ![](<.gitbook/assets/twitter icon.png>) **Twitter (official)**&#x20;
 
