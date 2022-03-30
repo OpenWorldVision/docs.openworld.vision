@@ -8,8 +8,8 @@ Before each battle, players are required to recruit their own character, forging
 
 Further information on the combat calculations can be found here:
 
-{% content-ref url="combat/fighting.md" %}
-[fighting.md](combat/fighting.md)
+{% content-ref url="../../xblade/what-is-xblade/combat/fighting.md" %}
+[fighting.md](../../xblade/what-is-xblade/combat/fighting.md)
 {% endcontent-ref %}
 
 ## Eanring Calculator
@@ -48,6 +48,6 @@ Players’ NFTs can be traded for OPEN on the marketplace
 
 Further information on the marketplace can be found here:
 
-{% content-ref url="marketplace.md" %}
-[marketplace.md](marketplace.md)
+{% content-ref url="../../xblade/what-is-xblade/marketplace.md" %}
+[marketplace.md](../../xblade/what-is-xblade/marketplace.md)
 {% endcontent-ref %}
