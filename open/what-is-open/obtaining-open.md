@@ -38,8 +38,8 @@ The tax will be reverted to the starting point (15%) if the player withdraw OPEN
 
 Those, who attempt to avoid the tax, kindly find the attached below for your further consideration:
 
-{% content-ref url="staking.md" %}
-[staking.md](staking.md)
+{% content-ref url="../../xblade/what-is-xblade/staking.md" %}
+[staking.md](../../xblade/what-is-xblade/staking.md)
 {% endcontent-ref %}
 
 ## Trading

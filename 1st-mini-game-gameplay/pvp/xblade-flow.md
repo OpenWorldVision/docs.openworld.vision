@@ -2,7 +2,7 @@
 description: How xBlade is used in PvP mode ?
 ---
 
-# xBlade Flow
+# Open Flow
 
 Firstly, all of OPEN that spends in PvP mode is from wallet only.
 
