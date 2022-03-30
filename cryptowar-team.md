@@ -1,12 +1,12 @@
 # OpenWorld Team
 
-![](.gitbook/assets/26951908\_353943671740574\_2180541227379288141\_o.jpg)
+![](.gitbook/assets/teamwork.jpg)
 
-OpenWorld has 20+ team members in a group of diverse and complemented backgrounds: coding, private equity and venture capital, digital media, and business operation. The core team knows each other personally and have worked together for 10+ years over various ups and downs in multinational firms as well as high growth startups with multi-million dollars in VCs and corporate funding.
+Cryptowar has 20+ team members in a group of diverse and complemented backgrounds: computer science, venture capital, private equity, digital media, and business operation. The core team knows each other personally and have worked together for 10+ years over various ups and downs in multinational firms as well as high growth funded startups.
 
-We engaged into crypto space back in early 2013 when Bitcoin was only a few $ and ETH is non-existence. In 2020, after acquiring enough experience and observation over the crypto market, we gathered to make a push for a company in DeFi space that targets to become a wealth creation engine for token holders. That's how we come up with XBN and various of its migration rewards and hold-to-claim bonus programs.
+We experience first hand short-coming of DeFi and GameFi by projects we built on: DeFi solves the depository issue by offering high yields, however DeFi protocols in the market lack a channel to direct those funds into value creating projects in order to make even higher yields to pay back the depositors. GameFi P2E is a financially unsustainable business model where the value of the gamers’ earnings is mainly financed either by investors or late comers, meanwhile GameFi PvP creates win-lose situation between gamers and is very close to gambling.
 
-In mid of 2021, realizing the implications that NFTs can revolutionize gaming into a field where players can play and make a living from their investments and efforts, we developed our first game, OpenWorld OPEN, that aims to be our core product for GameFi space. We emerge ourselves into Metaverse developments and are working day and night to create new features into OpenWorld so that OpenWorld can be an intersection of gaming, virtual social, and finance.
+However, we also acknowledge the power of blockchain in decentralizing finance and create, for the first time in human history, an authentic and true digital ownership with digital arts and gaming items. Thus, we come up with the idea to build a digital experience, open metaverse, that is enabled by blockchain with a sound circular economy based on real monetary flow. This open digital world will not be a competitive battlefield, but is a collaborative digital value creation space for everyone to connect, play, express themselves, and find happiness.
 
 |                                               |                                                                                                                                              |
 | :-------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------- |
