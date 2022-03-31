@@ -19,3 +19,10 @@
 * OpenWorld: [https://twitter.com/OpenWorldVision](https://twitter.com/OpenWorldVision)
 
 ****![](<.gitbook/assets/discord-logo-01-discord-logo-11562849833clsolz2mbc (1).png>) **Discord**: [https://discord.gg/zS2khZ4F7K](https://discord.gg/zS2khZ4F7K)
+
+****![](.gitbook/assets/facebook-icons.png) **Facebook**
+
+* Facebook page: [https://www.facebook.com/OpenWorldVision](https://www.facebook.com/OpenWorldVision)
+* Facebook group: [http://www.facebook.com/groups/openworldvision/](http://www.facebook.com/groups/openworldvision/)
+
+Other links: [https://linktr.ee/OpenWorldVision](https://linktr.ee/OpenWorldVision)
