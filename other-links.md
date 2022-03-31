@@ -25,4 +25,14 @@
 * Facebook page: [https://www.facebook.com/OpenWorldVision](https://www.facebook.com/OpenWorldVision)
 * Facebook group: [http://www.facebook.com/groups/openworldvision/](http://www.facebook.com/groups/openworldvision/)
 
-Other links: [https://linktr.ee/OpenWorldVision](https://linktr.ee/OpenWorldVision)
+****![](.gitbook/assets/V5uYHsX.png) **Substack**
+
+* [https://openworldvision.substack.com/](https://openworldvision.substack.com)
+
+&#x20;**Medium**
+
+* [https://openworldvision.medium.com/](https://openworldvision.medium.com)
+
+![](.gitbook/assets/linktree-logo-freelogovectors.net\_.png) **Linktree**
+
+* [https://linktr.ee/OpenWorldVision](https://linktr.ee/OpenWorldVision)
