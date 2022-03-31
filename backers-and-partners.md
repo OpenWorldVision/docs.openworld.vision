@@ -1,6 +1,6 @@
 # Backers & Partners
 
-## Backers&#x20;
+## Backers
 
 ![](.gitbook/assets/EulqY59XcAA2ljR.jpg)
 
@@ -8,7 +8,7 @@
 
 ![](<.gitbook/assets/Screen Shot 2021-11-08 at 8.22.18 PM.png>)
 
-[Cloudjet Solutions](https://www.cloudjetsolutions.com) (CJS) is a Cloud Computing & Software as a Service company based on Singapore and invested by [Expara Venture Fund](https://www.expara.com). After 10 years of development, CJS has wide-range clients from Big Corp to Small Enteprise around Vietnam.&#x20;
+[Cloudjet Solutions](https://www.cloudjetsolutions.com) (CJS) is a Cloud Computing & Software as a Service company based on Singapore and invested by [Expara Venture Fund](https://www.expara.com). After 10 years of development, CJS has wide-range clients from Big Corp to Small Enteprise around Vietnam.
 
 ![](<.gitbook/assets/Screen Shot 2021-11-08 at 8.17.47 PM.png>)
 
@@ -16,7 +16,7 @@
 
 ![](<.gitbook/assets/Logo - ACA.PNG>)
 
-[Altair Cliff Associates LLC](https://www.altair-cliff.com) is an investment firm following global macro strategy.  Altair Cliff Associates is active in US Equity, Options, Cryptocurrencies, and Private Placement.
+[Altair Cliff Associates LLC](https://www.altair-cliff.com) is an investment firm following global macro strategy. Altair Cliff Associates is active in US Equity, Options, Cryptocurrencies, and Private Placement.
 
 ## Partners <a href="#backers" id="backers"></a>
 
@@ -30,11 +30,11 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 ![](.gitbook/assets/OwlDAO.jpg)
 
-OwlDAO aims to build the best casino solution for Web 3.0. Partnering with leading protocols, the OWL token provides perpetual buyback from casino incomes, plus auto-liquidity and staking rewards.
+[OwlDAO ](https://owldao.io)aims to build the best casino solution for Web 3.0. Partnering with leading protocols, the OWL token provides perpetual buyback from casino incomes, plus auto-liquidity and staking rewards.
 
 ![](.gitbook/assets/OwlGames.jpg)
 
-Owl.Games : Best Crypto Casino for Web 3.0
+[Owl.Games](https://www.owl.games) : Best Crypto Casino for Web 3.0
 
 ![](.gitbook/assets/Sandboxlogo.png)
 
