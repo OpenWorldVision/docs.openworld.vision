@@ -8,9 +8,7 @@
 
 OpenWorld is a blockchain enabled open metaverse with a sound circular economy based on real monetary flow.
 
-#### What We Do
 
-Our vision is to open a new dimension for everyone to connect, play, express themselves, and find happiness.
 
 #### What We Dream
 
