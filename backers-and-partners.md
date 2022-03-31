@@ -2,7 +2,7 @@
 
 ## Backers
 
-![](.gitbook/assets/Picture5.png)
+![](.gitbook/assets/Picture7.png)
 
 [X](https://xbn.finance)[BN.Finance](https://xbn.finance) aims to power the next big things on Ethereum Virtual Machine Networks. XBN works as an engine: innovate and build ideas and technologies that create wealth for XBN token holders. When an investor buys XBN and becomes an XBN token holder, the investor acquires a piece of a team that is dedicated to seek the next big ideas and build those technologies in the crypto space to create wealth for her.
 
