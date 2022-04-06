@@ -15,7 +15,6 @@
 * [Backers & Partners](backers-and-partners.md)
 * [Roadmap](roadmap.md)
 * [Social Links](other-links.md)
-* [Feedback & Change Log](https://cryptowar.feedy.app)
 
 ## OPEN
 
