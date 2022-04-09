@@ -50,6 +50,6 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 [TribeOne](https://www.tribeone.io) is the world’s first-ever NFT lending platform that offers a seamless experience; to the users through its innovative consumer-centric products. The platform will break barriers in the traditional financial ecosystem and revolutionize the DeFi sphere as a whole. Providing the community with a platform to lend, borrow and invest in NFTs. Therefore, offering an unconventional experience for all.
 
-![](<.gitbook/assets/FORMLESS LOGO.png>)
+![](<.gitbook/assets/formless (2).png>)
 
 [Formless](https://www.formless.me/home) is the world's first and leading GameFi and Metaverse aggregator connecting games, gamers and guilds. We will become the 'Steam of GameFi', bringing Play-to-Earn gaming into the mainstream by making blockchain gaming more accessible through improving user experience, integrating tools and services and simplifying existing industry processes. Formless is well-positioned to lead the success of the GameFi and Metaverse revolution and support the growth of the GameFi industry through our feature-rich Web3.0 platform, being already partnered with over 200 blockchain games, 50 guilds and a large range of strategic partners.
