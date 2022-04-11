@@ -1,14 +1,12 @@
 # OpenWorld Metaverse
 
-## [OpenWorld Metaverse](https://docs.openworld.vision)
+## [OpenWorld Metaverse](https://wiki.openworld.vision)
 
 ### About US
 
 #### Who We Are
 
 OpenWorld is a blockchain enabled open metaverse with a sound circular economy based on real monetary flow.
-
-
 
 #### What We Dream
 
