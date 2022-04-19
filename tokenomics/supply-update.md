@@ -1,6 +1,6 @@
 # Supply Update
 
-\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+
 
 | (Old) Circulating Supply = # of coins that are circulating in the market and in the general public's hands.  | 59,896,215                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |

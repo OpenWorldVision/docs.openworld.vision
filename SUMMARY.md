@@ -10,7 +10,7 @@
   * [Multiple Accounts](getting-started/multiple-accounts.md)
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions/README.md)
     * [Infrastructure](getting-started/common-issues-and-solutions/infrastructure.md)
-* [Tokenomics](tokenomics/README.md)
+* [Tokenomics](tokenomics.md)
   * [Supply Update](tokenomics/supply-update.md)
 * [OpenWorld Team](cryptowar-team.md)
 * [Backers & Partners](backers-and-partners.md)
