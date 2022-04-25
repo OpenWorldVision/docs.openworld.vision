@@ -58,4 +58,3 @@ At the heart of the product, OpenWorld’s team focuses on solving 2 things:
 
 OpenWorld’s metaverse will be an open-world to other metaverse projects and work toward achieving technical interoperability: If you buy an NFT yacht somewhere and it is interoperable to our world, you can bring it on and chill on its deck.
 
-## docs.openworld.vision
