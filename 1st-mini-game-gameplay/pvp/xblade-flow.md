@@ -10,14 +10,14 @@ Firstly, all of OPEN that spends in PvP mode is from wallet only.
 
 Secondly, when you win a fight OPEN will go to " PvP Reward Pool " . You can claim it to wallet, it cost 0 tax. PvP and PvE have different reward pool, please remember that.
 
-![PvP Reward Pool](<../../.gitbook/assets/20 (2).jpg>)
+![PvP Reward Pool](<../../.gitbook/assets/20 (3).jpg>)
 
 If you win, you'll have to pay 5% OPEN of Amount a match for tax and earn 95% rest.
 
-![](<../../.gitbook/assets/photo\_2022-01-05\_15-57-43 (1).jpg>)
+![](<../../.gitbook/assets/photo\_2022-01-05\_15-57-43 (1) (1).jpg>)
 
 If you lose, you lost 100% OPEN Amount a match
 
-![](<../../.gitbook/assets/photo\_2022-01-05\_15-57-53 (1).jpg>)
+![](../../.gitbook/assets/photo\_2022-01-05\_15-57-53.jpg)
 
 So check out OPEN in your wallet, some BNB for gas fee and you're good to go. Have fun and Good luck !

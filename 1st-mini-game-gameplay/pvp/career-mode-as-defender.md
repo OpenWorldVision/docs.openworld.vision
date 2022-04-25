@@ -24,10 +24,10 @@ After that you will find the Hero that you listed at " My Career Mode " tab. You
 
 You can check out other's request to fight at " Request to Challenge " tab. Remember to check out your opponent's power and what kind of weapon that they use, Fight if you see chance to win or just leave it there if you don't. You can not cancel other's fight request !
 
-![](../../.gitbook/assets/photo\_2022-01-05\_15-44-54.jpg)
+![](<../../.gitbook/assets/photo\_2022-01-05\_15-44-54 (1).jpg>)
 
 Once you accept the request and pay gas fee then wait for fight's result : Win or Lose
 
-![You Win](<../../.gitbook/assets/photo\_2022-01-05\_15-57-43 (1) (1).jpg>)
+![You Win](<../../.gitbook/assets/photo\_2022-01-05\_15-57-43 (1).jpg>)
 
-![You Lost](../../.gitbook/assets/photo\_2022-01-05\_15-57-53.jpg)
+![You Lost](<../../.gitbook/assets/photo\_2022-01-05\_15-57-53 (1).jpg>)

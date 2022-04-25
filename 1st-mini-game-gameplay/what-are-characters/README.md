@@ -38,6 +38,6 @@ Each character has their own stamina pool with a maximum count of 200.
 
 Stamina regenerates over time by one point every 7 minutes for level 1, and increase until 17 minutes/stamina.
 
-![Stamina regenration per level](<../../.gitbook/assets/Screen Shot 2021-10-31 at 10.38.25.png>)
+![Stamina regenration per level](<../../.gitbook/assets/Screen Shot 2021-10-31 at 10.38.25 (1).png>)
 
 When a player engages in combat, stamina is depleted at a rate of 40/80/120/160/200 stamina per fight, depending on the player's chosen stamina fetched per fight.

@@ -8,7 +8,7 @@
 
 [XBN.finance](https://xbn.finance) aims to power the next big things on Ethereum Virtual Machine Networks. XBN works as an engine: innovate and build ideas and technologies that create wealth for XBN token holders. When an investor buys XBN and becomes an XBN token holder, the investor acquires a piece of a team that is dedicated to seek the next big ideas and build those technologies in the crypto space to create wealth for her.
 
-![](<.gitbook/assets/image 2 (1).png>)
+![](<.gitbook/assets/image 2.png>)
 
 [Cloudjet Solutions](https://www.cloudjetsolutions.com) (CJS) is a Cloud Computing & Software as a Service company based on Singapore and invested by [Expara Venture Fund](https://www.expara.com). After 10 years of development, CJS has wide-range clients from Big Corp to Small Enteprise around Vietnam.
 
@@ -54,6 +54,6 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 [Formless](https://www.formless.me/home) is the world's first and leading GameFi and Metaverse aggregator connecting games, gamers and guilds. We will become the 'Steam of GameFi', bringing Play-to-Earn gaming into the mainstream by making blockchain gaming more accessible through improving user experience, integrating tools and services and simplifying existing industry processes. Formless is well-positioned to lead the success of the GameFi and Metaverse revolution and support the growth of the GameFi industry through our feature-rich Web3.0 platform, being already partnered with over 200 blockchain games, 50 guilds and a large range of strategic partners.
 
-![](.gitbook/assets/CoverCompared.jpg)
+![](.gitbook/assets/CoverCompared.png)
 
 [CoverCompared](https://covercompared.com) is a frictionless marketplace that offers a plethora of traditional as well as crypto-based insurance policies which can be purchased in exchange for cryptocurrencies. Our vision is to align insurance purchases with the core principles of decentralized technology to provide global access to everyone while offering a censorship-resistant platform and build a open-source technology governed by software and controlled by its users.
