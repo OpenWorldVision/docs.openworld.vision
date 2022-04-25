@@ -1,6 +1,8 @@
 # OpenWorld Metaverse
 
-## [OpenWorld Metaverse](https://wiki.openworld.vision)
+
+> Suggest Edit at [github](https://github.com/OpenWorldVision/docs.openworld.vision)
+> View Wiki at [OpenWorld Wiki](https://wiki.openworld.vision)
 
 ### About US
 
