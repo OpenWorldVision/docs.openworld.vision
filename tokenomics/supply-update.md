@@ -1,6 +1,6 @@
 # Supply Update
 
-
+Verify Circulating Supply on CoinMarketCap: Ticket number 449687
 
 | (Old) Circulating Supply = # of coins that are circulating in the market and in the general public's hands.  | 59,896,215                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
