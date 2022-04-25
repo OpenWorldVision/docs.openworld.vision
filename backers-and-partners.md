@@ -53,3 +53,7 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 ![](<.gitbook/assets/formless (1).png>)
 
 [Formless](https://www.formless.me/home) is the world's first and leading GameFi and Metaverse aggregator connecting games, gamers and guilds. We will become the 'Steam of GameFi', bringing Play-to-Earn gaming into the mainstream by making blockchain gaming more accessible through improving user experience, integrating tools and services and simplifying existing industry processes. Formless is well-positioned to lead the success of the GameFi and Metaverse revolution and support the growth of the GameFi industry through our feature-rich Web3.0 platform, being already partnered with over 200 blockchain games, 50 guilds and a large range of strategic partners.
+
+![](.gitbook/assets/CoverCompared.jpg)
+
+[CoverCompared](https://covercompared.com) is a frictionless marketplace that offers a plethora of traditional as well as crypto-based insurance policies which can be purchased in exchange for cryptocurrencies. Our vision is to align insurance purchases with the core principles of decentralized technology to provide global access to everyone while offering a censorship-resistant platform and build a open-source technology governed by software and controlled by its users.
