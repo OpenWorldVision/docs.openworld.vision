@@ -12,7 +12,7 @@
     * [Infrastructure](getting-started/common-issues-and-solutions/infrastructure.md)
 * [Tokenomics](tokenomics.md)
   * [Supply Update](tokenomics/supply-update.md)
-* [OpenWorld Team](openworld-team.md)
+* [OpenWorld Team](cryptowar-team.md)
 * [Backers & Partners](backers-and-partners.md)
 * [Roadmap](roadmap.md)
 * [Social Links](other-links.md)
