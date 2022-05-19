@@ -10,7 +10,7 @@ Verify Circulating Supply on CoinMarketCap: Ticket number 449687
 | (New) Total Supply = # of coins in existence right now (minus any coins that have been verifiably burned.    | 99,200,000                                                                                                                                   |
 | <p>(New) Max Supply = maximum # of coins that will ever exist in the lifetime of the cryptocurrency.<br></p> | 100,000,000                                                                                                                                  |
 | API endpoint that displays ONLY 'Total Supply' as a numerical value                                          | [https://openworld.vision/supply.txt](https://openworld.vision/supply.txt)                                                                   |
-| Explorer URL                                                                                                 | [https://bscscan.com/](https://bscscan.com)                                                                                                  |
+| Explorer URL                                                                                                 | [https://bscscan.com/](https://bscscan.com/)                                                                                                 |
 | Richlist URL                                                                                                 | [https://bscscan.com/token/0x27a339d9b59b21390d7209b78a839868e319301b](https://bscscan.com/token/0x27a339d9b59b21390d7209b78a839868e319301b) |
 
 

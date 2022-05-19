@@ -6,7 +6,7 @@
 
 ![](.gitbook/assets/Picture7.png)
 
-[XBN.finance](https://xbn.finance) aims to power the next big things on Ethereum Virtual Machine Networks. XBN works as an engine: innovate and build ideas and technologies that create wealth for XBN token holders. When an investor buys XBN and becomes an XBN token holder, the investor acquires a piece of a team that is dedicated to seek the next big ideas and build those technologies in the crypto space to create wealth for her.
+[XBN.finance](https://xbn.finance/) aims to power the next big things on Ethereum Virtual Machine Networks. XBN works as an engine: innovate and build ideas and technologies that create wealth for XBN token holders. When an investor buys XBN and becomes an XBN token holder, the investor acquires a piece of a team that is dedicated to seek the next big ideas and build those technologies in the crypto space to create wealth for her.
 
 ![](<.gitbook/assets/image 2.png>)
 
@@ -32,11 +32,11 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 ![](.gitbook/assets/OwlDAO.jpg)
 
-[OwlDAO ](https://owldao.io)aims to build the best casino solution for Web 3.0. Partnering with leading protocols, the OWL token provides perpetual buyback from casino incomes, plus auto-liquidity and staking rewards.
+[OwlDAO ](https://owldao.io/)aims to build the best casino solution for Web 3.0. Partnering with leading protocols, the OWL token provides perpetual buyback from casino incomes, plus auto-liquidity and staking rewards.
 
 ![](.gitbook/assets/OwlGames.jpg)
 
-[Owl.Games](https://www.owl.games) : Best Crypto Casino for Web 3.0
+[Owl.Games](https://www.owl.games/) : Best Crypto Casino for Web 3.0
 
 ![](.gitbook/assets/Sandboxlogo.png)
 
@@ -48,7 +48,7 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 ![](<.gitbook/assets/tribeo (2).png>)
 
-[TribeOne](https://www.tribeone.io) is the world’s first-ever NFT lending platform that offers a seamless experience; to the users through its innovative consumer-centric products. The platform will break barriers in the traditional financial ecosystem and revolutionize the DeFi sphere as a whole. Providing the community with a platform to lend, borrow and invest in NFTs. Therefore, offering an unconventional experience for all.
+[TribeOne](https://www.tribeone.io/) is the world’s first-ever NFT lending platform that offers a seamless experience; to the users through its innovative consumer-centric products. The platform will break barriers in the traditional financial ecosystem and revolutionize the DeFi sphere as a whole. Providing the community with a platform to lend, borrow and invest in NFTs. Therefore, offering an unconventional experience for all.
 
 ![](<.gitbook/assets/formless (1).png>)
 
@@ -56,4 +56,8 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 ![](.gitbook/assets/CoverCompared.png)
 
-[CoverCompared](https://covercompared.com) is a frictionless marketplace that offers a plethora of traditional as well as crypto-based insurance policies which can be purchased in exchange for cryptocurrencies. Our vision is to align insurance purchases with the core principles of decentralized technology to provide global access to everyone while offering a censorship-resistant platform and build a open-source technology governed by software and controlled by its users.
+[CoverCompared](https://covercompared.com/) is a frictionless marketplace that offers a plethora of traditional as well as crypto-based insurance policies which can be purchased in exchange for cryptocurrencies. Our vision is to align insurance purchases with the core principles of decentralized technology to provide global access to everyone while offering a censorship-resistant platform and build a open-source technology governed by software and controlled by its users.
+
+![](<.gitbook/assets/blue green text-.png>)
+
+[AlphaBatem ](https://alphabatem.com/)is a metaverse infrastructure company focused on enabling the next generation of metaverses. It provides various services, including our own Metaverse Drag & Drop builder, which allows a user to build a metaverse and then view it on the Web, Desktop, Mobile, AR & VR. Using our technology, anyone who owns AlphaBatem land can create or import a multiplayer metaverse. AlphaBatem services include large-scale multiplayer engines, on-chain logic engines, on-chain metaverse profiles, on-chain analytics & NFT insights, just to name a few.

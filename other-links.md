@@ -27,11 +27,11 @@
 
 ****![](.gitbook/assets/V5uYHsX.png) **Substack**
 
-* [https://openworldvision.substack.com/](https://openworldvision.substack.com)
+* [https://openworldvision.substack.com/](https://openworldvision.substack.com/)
 
 &#x20;**Medium**
 
-* [https://openworldvision.medium.com/](https://openworldvision.medium.com)
+* [https://openworldvision.medium.com/](https://openworldvision.medium.com/)
 
 ![](.gitbook/assets/linktree-logo-freelogovectors.net\_.png) **Linktree**
 
