@@ -62,6 +62,6 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 [AlphaBatem ](https://alphabatem.com/)is a metaverse infrastructure company focused on enabling the next generation of metaverses. It provides various services, including our own Metaverse Drag & Drop builder, which allows a user to build a metaverse and then view it on the Web, Desktop, Mobile, AR & VR. Using our technology, anyone who owns AlphaBatem land can create or import a multiplayer metaverse. AlphaBatem services include large-scale multiplayer engines, on-chain logic engines, on-chain metaverse profiles, on-chain analytics & NFT insights, just to name a few.
 
-![](.gitbook/assets/Plataocrypto.svg)
+![](.gitbook/assets/Ocrypto.svg)
 
 [PlataOCrypto ](https://plataocrypto.io/)is a brandnew concept, mixing NFTs, Crypto Casino, Role-Play and Social gambling
