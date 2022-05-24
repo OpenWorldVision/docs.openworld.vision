@@ -64,4 +64,4 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 ![](.gitbook/assets/Ocrypto.svg)
 
-[PlataOCrypto ](https://plataocrypto.io/)is a brandnew concept, mixing NFTs, Crypto Casino, Role-Play and Social gambling
+[PlataOCrypto ](https://plataocrypto.io/)is a brandnew concept, mixing NFTs, crypto casino, role-play and social gambling
