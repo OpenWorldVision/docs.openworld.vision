@@ -65,3 +65,7 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 ![](.gitbook/assets/Ocrypto.svg)
 
 [PlataOCrypto ](https://plataocrypto.io/)is a brandnew concept, mixing NFTs, crypto casino, role-play and social gambling
+
+![](<.gitbook/assets/youMeme\_logo3 (1).png>)
+
+Mainly aimed at 13-35-year-olds, [YouMeme ](https://youmeme.com)is a state-of-the-art social network designed to deliver joy on demand. Enjoy the latest and funniest memes in the form of images, GIFs and videos! The platform includes a native Meme & GIF editor, special events, a reward system based on a Meme-To-Earn model, a next-gen NFT marketplace, and much more!
