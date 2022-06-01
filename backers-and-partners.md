@@ -2,7 +2,7 @@
 
 ## Backers
 
-![](.gitbook/assets/HarmonyLogo.jpg)
+![](<.gitbook/assets/harmony logo (1).jpg>)
 
 [Harmony ](https://www.harmony.one/)is an open and fast layer-1 blockchain: Harmony mainnet runs Ethereum applications with 2-second transaction finality and 100 times lower fees.
 
