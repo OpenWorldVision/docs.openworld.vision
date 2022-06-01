@@ -4,7 +4,7 @@
 
 ![](.gitbook/assets/HarmonyLogo.jpg)
 
-[Harmony ](https://www.harmony.one/)is an open and fast layer-1 blockchain: Our mainnet runs Ethereum applications with 2-second transaction finality and 100 times lower fees.
+[Harmony ](https://www.harmony.one/)is an open and fast layer-1 blockchain: Harmony mainnet runs Ethereum applications with 2-second transaction finality and 100 times lower fees.
 
 ![](.gitbook/assets/Picture7.png)
 
