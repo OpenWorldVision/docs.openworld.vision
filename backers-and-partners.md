@@ -6,10 +6,6 @@
 
 [Harmony ](https://www.harmony.one/)is an open and fast layer-1 blockchain: Harmony mainnet runs Ethereum applications with 2-second transaction finality and 100 times lower fees.
 
-![](.gitbook/assets/Picture7.png)
-
-[XBN.finance](https://xbn.finance/) aims to power the next big things on Ethereum Virtual Machine Networks. XBN works as an engine: innovate and build ideas and technologies that create wealth for XBN token holders. When an investor buys XBN and becomes an XBN token holder, the investor acquires a piece of a team that is dedicated to seek the next big ideas and build those technologies in the crypto space to create wealth for her.
-
 ![](<.gitbook/assets/image 2.png>)
 
 [Cloudjet Solutions](https://www.cloudjetsolutions.com) (CJS) is a Cloud Computing & Software as a Service company based on Singapore and invested by [Expara Venture Fund](https://www.expara.com). After 10 years of development, CJS has wide-range clients from Big Corp to Small Enteprise around Vietnam.
@@ -21,6 +17,10 @@
 ![](.gitbook/assets/Picture6.png)
 
 [Altair Cliff Associates LLC](https://www.altair-cliff.com) is an investment firm following global macro strategy. Altair Cliff Associates is active in US Equity, Options, Cryptocurrencies, and Private Placement.
+
+![](.gitbook/assets/Picture7.png)
+
+[XBN.finance](https://xbn.finance/) aims to power the next big things on Ethereum Virtual Machine Networks. XBN works as an engine: innovate and build ideas and technologies that create wealth for XBN token holders. When an investor buys XBN and becomes an XBN token holder, the investor acquires a piece of a team that is dedicated to seek the next big ideas and build those technologies in the crypto space to create wealth for the investor.
 
 ## Partners <a href="#backers" id="backers"></a>
 
