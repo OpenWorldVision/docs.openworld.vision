@@ -17,6 +17,6 @@ However, we also acknowledge the power of blockchain in decentralizing finance a
 |           ![](.gitbook/assets/2.png)          | <p><strong>Nga Le / Admin - Community Associate</strong><br><strong>+</strong>10 years in Finance<br>+1,5 years in Crypto/ Blockchain<br>+1,5 years in Community</p>                                          |
 |           ![](.gitbook/assets/3.png)          | <p><strong>Thong Nguyen / Admin - Partnership Lead</strong><br><strong>+</strong>6 years in cryptospace<br>+Data analytics<br>+Skillful in content writing, community management, customer service</p>        |
 |           ![](.gitbook/assets/5.png)          | <p><strong>Phuc Nguyen / Social Media Manager</strong><br>+6 years in Marketing<br>+3 years in Crypto</p>                                                                                                     |
-|           ![](.gitbook/assets/4.png)          | <p> <strong>Dee Truong/ Community Lead</strong><br><strong>+</strong>5 years in viral marketing<br>+2.5 years in crypto/blockchain space<br>+Start-up experience<br>+Content creator with ~200k followers</p> |
+|        ![](<.gitbook/assets/4 (1).png>)       | <p> <strong>Dee Truong/ Community Lead</strong><br><strong>+</strong>5 years in viral marketing<br>+2.5 years in crypto/blockchain space<br>+Start-up experience<br>+Content creator with ~200k followers</p> |
 
 #### Work hard. Have Fund. Make History!

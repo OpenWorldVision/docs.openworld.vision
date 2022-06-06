@@ -28,6 +28,36 @@
   * [Sales Tax](xblade/what-is-xblade/sales-tax.md)
 * [Bond Sales](xblade/bond-sales.md)
 
+## OPENWORLD GAMEPLAY
+
+* [Profile / Avatar](openworld-gameplay/profile-avatar.md)
+* [Professions](openworld-gameplay/professions/README.md)
+  * [Openian](openworld-gameplay/professions/openian.md)
+* [Combat / Fighting](openworld-gameplay/fighting/README.md)
+  * [Combat Formula](openworld-gameplay/fighting/combat-formula.md)
+  * [Calculating Power](openworld-gameplay/fighting/calculating-player-power.md)
+  * [Combat Rewards](openworld-gameplay/fighting/combat-rewards.md)
+* [Weapons](openworld-gameplay/what-are-weapons/README.md)
+  * [Reforging](openworld-gameplay/what-are-weapons/reforging.md)
+  * [Weapon Attributes](openworld-gameplay/what-are-weapons/weapon-stats.md)
+  * [Weapon Durability](openworld-gameplay/what-are-weapons/weapon-durability.md)
+* [Box](openworld-gameplay/box.md)
+* [Rewards](openworld-gameplay/rewards.md)
+* [💎 xGem](openworld-gameplay/xgem.md)
+* [Character Levels & required experience per level](openworld-gameplay/character-levels-and-required-experience-per-level.md)
+* [PVP](openworld-gameplay/pvp/README.md)
+  * [Challenge Mode as Defender ( coming soon )](openworld-gameplay/pvp/challenge-mode-as-defender-coming-soon.md)
+  * [Challenge Mode as Attacker ( coming soon )](openworld-gameplay/pvp/challenge-mode-as-attacker-coming-soon.md)
+  * [Career Mode as Defender](openworld-gameplay/pvp/career-mode-as-defender.md)
+  * [Career Mode as Attacker](openworld-gameplay/pvp/career-mode-as-attacker.md)
+  * [Open Flow](openworld-gameplay/pvp/xblade-flow.md)
+* [Marketplace](openworld-gameplay/marketplace.md)
+* [Trading](openworld-gameplay/trading.md)
+* [Strategies and Guides](openworld-gameplay/strategies-and-guides/README.md)
+  * [Characters](openworld-gameplay/strategies-and-guides/characters.md)
+  * [Weapons](openworld-gameplay/strategies-and-guides/weapons.md)
+  * [Fights](openworld-gameplay/strategies-and-guides/fights.md)
+
 ## 1ST MINI-GAME GAMEPLAY
 
 * [Elements](1st-mini-game-gameplay/elements.md)
