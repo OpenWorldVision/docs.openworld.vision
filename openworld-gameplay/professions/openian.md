@@ -9,14 +9,32 @@
 
 ![](<../../.gitbook/assets/z51 (1).png>)
 
-
-
 **How to Fish?**
 
 * Waiting time: 12 hours
 * Required stamina: 0
 * Reward: 1 Fish per playing time
-* Openina can sell fish they caught at Food Court
+* Openian can sell fish they caught at Food Court
+
+![](../../.gitbook/assets/z52.png)
+
+![](../../.gitbook/assets/z53.png)
+
+**How to mine Ore?**
+
+* Waiting time: 12 hours
+* Required stamina: 0
+* Required item: 1 Hammer / playing time
+* Reward: 1 Ore / playing time
+* Openian can sell the Ore they get at Workshop
+
+![](../../.gitbook/assets/z54.png)
+
+![](../../.gitbook/assets/z55.png)
+
+It is the user interface for item exchange
+
+![](../../.gitbook/assets/Untitled\_\(7\).png)
 
 {% content-ref url="../../1st-mini-game-gameplay/fighting/" %}
 [fighting](../../1st-mini-game-gameplay/fighting/)
