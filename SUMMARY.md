@@ -33,6 +33,7 @@
 * [Profile / Avatar](openworld-gameplay/profile-avatar.md)
 * [Professions](openworld-gameplay/professions/README.md)
   * [Openian](openworld-gameplay/professions/openian.md)
+  * [Supplier](openworld-gameplay/professions/supplier.md)
 * [Combat / Fighting](openworld-gameplay/fighting/README.md)
   * [Combat Formula](openworld-gameplay/fighting/combat-formula.md)
   * [Calculating Power](openworld-gameplay/fighting/calculating-player-power.md)
