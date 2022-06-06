@@ -37,22 +37,8 @@
   * [Blacksmith](openworld-gameplay/professions/blacksmith.md)
 * [Castle / Shop](openworld-gameplay/fighting/README.md)
 * [Food Court](openworld-gameplay/what-are-weapons/README.md)
-* [WorkShop](openworld-gameplay/workshop.md)
-* [Rewards](openworld-gameplay/rewards.md)
-* [💎 xGem](openworld-gameplay/xgem.md)
-* [Character Levels & required experience per level](openworld-gameplay/character-levels-and-required-experience-per-level.md)
-* [PVP](openworld-gameplay/pvp/README.md)
-  * [Challenge Mode as Defender ( coming soon )](openworld-gameplay/pvp/challenge-mode-as-defender-coming-soon.md)
-  * [Challenge Mode as Attacker ( coming soon )](openworld-gameplay/pvp/challenge-mode-as-attacker-coming-soon.md)
-  * [Career Mode as Defender](openworld-gameplay/pvp/career-mode-as-defender.md)
-  * [Career Mode as Attacker](openworld-gameplay/pvp/career-mode-as-attacker.md)
-  * [Open Flow](openworld-gameplay/pvp/xblade-flow.md)
+* [WorkShop](openworld-gameplay/box.md)
 * [Marketplace](openworld-gameplay/marketplace.md)
-* [Trading](openworld-gameplay/trading.md)
-* [Strategies and Guides](openworld-gameplay/strategies-and-guides/README.md)
-  * [Characters](openworld-gameplay/strategies-and-guides/characters.md)
-  * [Weapons](openworld-gameplay/strategies-and-guides/weapons.md)
-  * [Fights](openworld-gameplay/strategies-and-guides/fights.md)
 
 ## 1ST MINI-GAME GAMEPLAY
 
