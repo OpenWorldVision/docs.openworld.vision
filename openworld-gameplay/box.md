@@ -1,7 +1,3 @@
----
-description: Box is an NFT in CryptoWar
----
-
 # WorkShop
 
 ![](../.gitbook/assets/WorkShop1.png)
