@@ -10,4 +10,4 @@ You might receive EVM errors if you start your fight before the hourly reset. Ev
 
 ## Getting Started Page Stuck
 
-You are required to hold a certain amount of xBlade in your wallet to get access to our welcome page and recruit your first character. Please proceed to the following page for further information on how to purchase xBlade
+You are required to hold a certain amount of OPEN in your wallet to get access to our welcome page and recruit your first character. Please proceed to the following page for further information on how to purchase OPEN

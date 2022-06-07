@@ -33,7 +33,7 @@ CryptoWar developers and moderators will never ask for your seed phrase and pass
 
 After you create an account on MetaMask, it will default to the Ethereum Mainnet.
 
-CryptoWar and xBlade requires your wallet to be set to the Binance Smart Chain Mainnet.
+OpenWorld requires your wallet to be set to the Binance Smart Chain Mainnet.
 
 The steps to add the BSC network are outlined below:
 
