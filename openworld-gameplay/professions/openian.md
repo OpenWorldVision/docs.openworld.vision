@@ -36,6 +36,6 @@ It is the user interface for item exchange
 
 ![](../../.gitbook/assets/Untitled\_\(7\).png)
 
-{% content-ref url="../../1st-mini-game-gameplay/fighting/" %}
-[fighting](../../1st-mini-game-gameplay/fighting/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
