@@ -8,7 +8,7 @@ The links to download MetaMask can be found here for [**Chrome Web Store**](http
 
 MetaMask is also compatible with Brave browser.
 
-MetaMask can also be installed on [**Android**](https://play.google.com/store/apps/details?id=io.metamask&hl=en_US&ref=producthunt&_branch_match_id=739701339152755845), and [**iOS**](https://apps.apple.com/us/app/metamask/id1438144202?_branch_match_id=739701339152755845).
+MetaMask can also be installed on [**Android**](https://play.google.com/store/apps/details?id=io.metamask\&hl=en\_US\&ref=producthunt&\_branch\_match\_id=739701339152755845), and [**iOS**](https://apps.apple.com/us/app/metamask/id1438144202?\_branch\_match\_id=739701339152755845).
 
 ## Creating an Account
 
@@ -59,5 +59,4 @@ The steps to add the BSC network are outlined below:
 
 ![image](https://user-images.githubusercontent.com/90205972/133461564-cc288dc1-d1f2-4723-b4a7-f98e18f2caee.png)
 
-Congratulations, you are now ready to receive BNB in your address and purchase xBlade.
-
+Congratulations, you are now ready to receive BNB in your address and purchase OPEN.
