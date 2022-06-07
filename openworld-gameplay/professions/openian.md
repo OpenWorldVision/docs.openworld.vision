@@ -12,7 +12,7 @@
 **How to Fish?**
 
 * Waiting time: 12 hours
-* Required stamina: 0
+* Required stamina: 50
 * Reward: 1 Fish per playing time
 * Openian can sell fish they caught at Food Court
 
@@ -23,7 +23,7 @@
 **How to mine Ore?**
 
 * Waiting time: 12 hours
-* Required stamina: 0
+* Required stamina: 50
 * Required item: 1 Hammer / playing time
 * Reward: 1 Ore / playing time
 * Openian can sell the Ore they get at Workshop
