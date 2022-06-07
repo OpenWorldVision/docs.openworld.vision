@@ -4,7 +4,7 @@ Besides engaging in battles to earn more OPEN, staking is regarded as the mainst
 
 Hence, there are some practical suggestions concerning this issue.
 
-Once players staked their xBalde, they are not acceptable to approach to their OPEN for 7 days.
+Once players staked their OPEN, they are not acceptable to approach to their OPEN for 7 days.
 
 If players decide to withdraw OPEN immediately or don’t want to wait 7 days, a 15% tax will be applied to withdrawal.
 
