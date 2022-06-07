@@ -17,7 +17,7 @@
 A Supplier can make 2 Sushi from each Fish which can be bought from Openian via Food Court
 
 * Waiting time: 0
-* Required Stamina: 0
+* Required Stamina: 50
 * Tax: 5%
 
 **What is Sushi?**

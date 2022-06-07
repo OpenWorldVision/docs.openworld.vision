@@ -17,7 +17,7 @@
 * From 1 Ore, a BlackSmith can forge and make 2 Hammers.
 * Ore can be bought from Openian at Workshop
 * Waiting time: 0
-* Required Stamina: 0
+* Required Stamina: 50
 * Tax: 5%
 
 **What is Hammer?**
