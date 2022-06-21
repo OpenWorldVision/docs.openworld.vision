@@ -74,8 +74,8 @@ Mainly aimed at 13-35-year-olds, [YouMeme ](https://youmeme.com)is a state-of-th
 
 ![](<.gitbook/assets/now wallet resize (1).png>)
 
-The crypto wallet, [NOW](https://walletnow.app/) and Forever. Store, buy, exchange and stake crypto in a user-friendly mobile app. Built on the best experience of [ChangeNow ](https://changenow.io/)crypto exchange service.
+The crypto wallet, [NOW](https://walletnow.app/) and Forever. It's a non-custodial mobile crypto wallet that does not collect any personal data. It allows users to securely store crypto assets, exchange crypto, choosing from more than 20,000+ trading pairs, and purchase crypto with fiat. In NOW Wallet you can receive and send any tokens on 7 supported networks - Ethereum, Binance Smart Chain, Polygon, Avax C-chain, TRON, Klaytn and Solana. Users can also securely store ETH-based NFTs, connect to dApps on 4 suppoerted network and stake crypto to receive up to 25% of annual income. [ChangeNOW ](https://changenow.io/)Pro users can get even more profit with 0,1% Cashback from each transaction.
 
 ![](<.gitbook/assets/changenow resize.jpg>)
 
-[ChangeNOW ](https://changenow.io/)is an instant crypto exchange service — account-free, worry-free, faster than light!
+[ChangeNOW ](https://changenow.io/)is a non-custodial service created for simple and fast cryptocurrency exchanges. We strive for maximum safety, simplicity, and convenience. We do not store your funds or require any sort of account creation. ChangeNOW has almost 400 coins available for exchange and does not hold any limits; you can exchange as much as you want - account-free, worry-free, faster than light. The fiat option is also available - you can buy cryptocurrency with Visa or MasterCard through our third-party partner.
