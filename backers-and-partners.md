@@ -71,3 +71,7 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 ![](<.gitbook/assets/youMeme\_logo3 (1).png>)
 
 Mainly aimed at 13-35-year-olds, [YouMeme ](https://youmeme.com)is a state-of-the-art social network designed to deliver joy on demand. Enjoy the latest and funniest memes in the form of images, GIFs and videos! The platform includes a native Meme & GIF editor, special events, a reward system based on a Meme-To-Earn model, a next-gen NFT marketplace, and much more!
+
+![](<.gitbook/assets/now wallet logo.png>)
+
+The crypto wallet, [NOW](https://walletnow.app/) and Forever. Store, buy, exchange and stake crypto in a user-friendly mobile app. Built on the best experience of [ChangeNow ](https://changenow.io/)crypto exchange service.
