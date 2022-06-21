@@ -75,3 +75,7 @@ Mainly aimed at 13-35-year-olds, [YouMeme ](https://youmeme.com)is a state-of-th
 ![](<.gitbook/assets/now wallet logo.png>)
 
 The crypto wallet, [NOW](https://walletnow.app/) and Forever. Store, buy, exchange and stake crypto in a user-friendly mobile app. Built on the best experience of [ChangeNow ](https://changenow.io/)crypto exchange service.
+
+![](.gitbook/assets/ChangeNOW.jpg)
+
+[ChangeNOW ](https://changenow.io/)is an instant crypto exchange service — account-free, worry-free, faster than light!
