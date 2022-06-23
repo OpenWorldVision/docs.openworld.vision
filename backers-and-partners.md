@@ -79,3 +79,7 @@ The crypto wallet, [NOW](https://walletnow.app/) and Forever. It's a non-custodi
 ![](<.gitbook/assets/changenow resize.jpg>)
 
 [ChangeNOW ](https://changenow.io/)is a non-custodial service created for simple and fast cryptocurrency exchanges. We strive for maximum safety, simplicity, and convenience. We do not store your funds or require any sort of account creation. ChangeNOW has almost 400 coins available for exchange and does not hold any limits; you can exchange as much as you want - account-free, worry-free, faster than light. The fiat option is also available - you can buy cryptocurrency with Visa or MasterCard through our third-party partner.
+
+![](<.gitbook/assets/BKresize (1).png>)
+
+[BitKeep ](https://bitkeep.com/)is a decentralized multi-chain digital wallet, dedicated to providing safe and convenient one-stop digital asset management services to users around the world. Currently, there are nearly 5 million users covering 168 countries. BitKeep has reached ecosystem partnership and strategic partnership with Top 30 public chains like Polygon, Solana, BSC, ETH, HECO, OEC, TRON, Fantom, Wax, IOST, AVAX, zkSync, Terra(Luna) etc. and become the official recommended wallet. With 60+ main chains, 8000+ DAPP and 4,5000+ crypto assets, committed to creating the world's largest entry to decentralized world.
