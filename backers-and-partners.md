@@ -83,3 +83,11 @@ The crypto wallet, [NOW](https://walletnow.app/) and Forever. It's a non-custodi
 ![](<.gitbook/assets/BKresize (1).png>)
 
 [BitKeep ](https://bitkeep.com/)is a decentralized multi-chain digital wallet, dedicated to providing safe and convenient one-stop digital asset management services to users around the world. Currently, there are nearly 5 million users covering 168 countries. BitKeep has reached ecosystem partnership and strategic partnership with Top 30 public chains like Polygon, Solana, BSC, ETH, HECO, OEC, TRON, Fantom, Wax, IOST, AVAX, zkSync, Terra(Luna) etc. and become the official recommended wallet. With 60+ main chains, 8000+ DAPP and 4,5000+ crypto assets, committed to creating the world's largest entry to decentralized world.
+
+![](.gitbook/assets/logo\_hyve\_black.svg)
+
+[HYVE](https://app.hyve.works/) is the largest web3 job marketplace. Its decentralized nature facilitates the exchange of goods and services among freelancers and companies across the world.
+
+All payments are escrowed, so money are instantly and securely transferred from one end to another.
+
+There are 3 options available when posting on the platform and you can choose to freelance meaning that you will post your offer, or you can choose to hire someone for a specific task, or for a periodic engagement in the form of a job.
