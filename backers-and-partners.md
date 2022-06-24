@@ -91,3 +91,7 @@ The crypto wallet, [NOW](https://walletnow.app/) and Forever. It's a non-custodi
 All payments are escrowed, so money are instantly and securely transferred from one end to another.
 
 There are 3 options available when posting on the platform and you can choose to freelance meaning that you will post your offer, or you can choose to hire someone for a specific task, or for a periodic engagement in the form of a job.
+
+![](<.gitbook/assets/Upgrade designsgag.jpg>)
+
+[Upgrade designs](https://upgrade-designs.com/) is a graphic design, video motion and web development company. Aiming to take your brand to the next level to be able to be the leader of the market.
