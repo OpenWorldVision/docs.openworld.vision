@@ -6,6 +6,8 @@ description: >-
 
 # Bond Sales
 
+Capital from bond sale will be used to add liquidity for OPEN on Harmony
+
 Bond site : [https://onebond.openworld.vision/](https://onebond.openworld.vision/)
 
 At Bond site of OpenWorld you now can buy OPEN with discount price under some specific terms:

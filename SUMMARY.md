@@ -19,13 +19,13 @@
 
 ## OPEN
 
-* [What is OPEN?](xblade/what-is-xblade/README.md)
+* [What is OPEN?](open/what-is-open/README.md)
   * [Spending OPEN](open/what-is-open/spending-open.md)
   * [Obtaining OPEN](open/what-is-open/obtaining-open.md)
-  * [Staking](xblade/what-is-xblade/staking.md)
-  * [Oracle](xblade/what-is-xblade/oracle.md)
+  * [Staking](open/what-is-open/staking.md)
+  * [Oracle](open/what-is-open/oracle.md)
   * [In-Game OPEN](open/what-is-open/in-game-open.md)
-  * [Sales Tax](xblade/what-is-xblade/sales-tax.md)
+  * [Sales Tax](open/what-is-open/sales-tax.md)
 * [Bond Sales](xblade/bond-sales.md)
 
 ## OPENWORLD GAMEPLAY
