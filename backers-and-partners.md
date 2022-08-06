@@ -40,10 +40,6 @@ Description for website Portal to cryptocurrency destination, [Quarashi Network]
 
 [Owl.Games](https://www.owl.games/) : Best Crypto Casino for Web 3.0
 
-![](.gitbook/assets/Sandboxlogo.png)
-
-[SandBoxcasino.io](https://sandboxcasino.io) is a hybrid casino which provides traditional crypto deposits alongside the newly popularized: web3.0 wallet connectivity and an ability to add any coins and networks. Sandbox also features an NFT gallery and a NFT section for all its users to see and win on their monthly giveaways. This casino is definitely the next big thing.
-
 ![](.gitbook/assets/HyperJump\_logo\_small.jpg)
 
 [HyperJump](https://hyperjump.app) is a multi-chain Defi platform focused on optimizing and grouping the main DApps most used by users in a single interface
