@@ -8,7 +8,7 @@ description: >-
 
 ## Compounding vs Claiming
 
-There are two options for rewards on [https://app.gmx.io/#/earn](https://app.gmx.io/#/earn): "Compound" and "Claim".
+There are two options for rewards on [https://app.openworld.vision/#/earn](https://app.openworld.vision/#/earn): "Compound" and "Claim".
 
 Compounding will stake your pending Multiplier Points and Escrowed OpenWorld rewards, this will increase the amount of rewards you receive.
 
@@ -25,11 +25,11 @@ Escrowed OPEN (esOPEN) can be used in two ways:
 
 Each staked Escrowed OPEN token will earn the same amount of Escrowed OPEN and ETH / AVAX rewards as a regular OPEN token.
 
-Note that Escrowed OPEN (esOPEN) is not meant to be transferrable unless you are doing a [full account transfer](https://app.gmx.io/#/begin\_account\_transfer). The amount of OPEN or OLP required to vest esOPEN is unique per account and capped to the rewards received by that account. Please do not buy esOPEN off the market or OTC as you will not be able to vest them.
+Note that Escrowed OPEN (esOPEN) is not meant to be transferrable unless you are doing a [full account transfer](https://app.openworld.vision/#/begin\_account\_transfer). The amount of OPEN or OLP required to vest esOPEN is unique per account and capped to the rewards received by that account. Please do not buy esOPEN off the market or OTC as you will not be able to vest them.
 
 ## Vesting
 
-Escrowed OPEN (esOPEN) tokens can be converted into OPEN tokens through vesting, this can be accessed on the [Earn](https://app.gmx.io/#/earn) page.&#x20;
+Escrowed OPEN (esOPEN) tokens can be converted into OPEN tokens through vesting, this can be accessed on the [Earn](https://app.openworld.vision/#/earn) page.&#x20;
 
 When vesting is initiated, the average amount of OPEN or OLP tokens that was used to earn the esOPEN rewards will be reserved.
 
@@ -43,7 +43,7 @@ If a user sells OPEN or OLP tokens and would like to vest their esOPEN rewards l
 
 Depositing into the vesting vault while existing vesting is ongoing is supported.
 
-Tokens that are reserved for vesting cannot be unstaked or sold. To unreserve the tokens, use the "Withdraw" button on the [Earn](https://app.gmx.io/#/earn) page. Partial withdrawals are not supported, so withdrawing will withdraw and unreserve all tokens as well as pause vesting. All esOPEN tokens that had been vested into OPEN will remain as OPEN tokens.
+Tokens that are reserved for vesting cannot be unstaked or sold. To unreserve the tokens, use the "Withdraw" button on the [Earn](https://app.openworld.vision/#/earn) page. Partial withdrawals are not supported, so withdrawing will withdraw and unreserve all tokens as well as pause vesting. All esOPEN tokens that had been vested into OPEN will remain as OPEN tokens.
 
 ## Multiplier Points
 
@@ -51,13 +51,13 @@ Multiplier Points reward long term holders without inflation.
 
 When you stake OPEN, you receive Multiplier Points every second at a fixed rate of 100% APR. 1000 OPEN staked for one year would earn 1000 Multiplier Points.
 
-Multiplier points can be staked for fee rewards by pressing the "Compound" button on the [Earn](https://gmx.financial/earn) page, each multiplier point will boost ETH / AVAX APRs at the same rate as a regular OPEN token.&#x20;
+Multiplier points can be staked for fee rewards by pressing the "Compound" button on the [Earn](https://app.openworld.vision/#/earn) page, each multiplier point will boost ETH / AVAX APRs at the same rate as a regular OPEN token.&#x20;
 
 When OPEN or Escrowed OPEN tokens are unstaked, the proportional amount of Multiplier Points are burnt. For example, if 1000 OPEN is staked and 500 Multiplier Points have been earned so far, then unstaking 300 OPEN would burn 150 (300 / 1000 \* 500) Multiplier Points. The burn will apply to the total amount of Multiplier Points which includes both staked and unstaked Multiplier Points.
 
-To transfer staked tokens without burning Multiplier Points, use the Transfer button on [https://app.gmx.io/#/earn](https://app.gmx.io/#/earn).
+To transfer staked tokens without burning Multiplier Points, use the Transfer button on [https://app.openworld.vision/#/earn](https://app.openworld.vision/#/earn).
 
-The "Boost Percentage" shown on the [Earn](https://app.gmx.io/#/earn) page shows your individual boost amount from Multiplier Points. For example, if the ETH APR is 10% and you have $10,000 worth of OPEN and esOPEN, then your rewards would be $1000 annualized, if you additionally have an amount of Multiplier Points equivalent to 20% of your total amount of OPEN and Escrowed OPEN, your "Boost Percentage" would display as 20%, and you would get an extra $200 of ETH rewards annualized. The “Boost Percentage” is calculated from the ratio of Multiplier Points to your total amount of staked OPEN:
+The "Boost Percentage" shown on the [Earn](https://app.openworld.vision/#/earn) page shows your individual boost amount from Multiplier Points. For example, if the ETH APR is 10% and you have $10,000 worth of OPEN and esOPEN, then your rewards would be $1000 annualized, if you additionally have an amount of Multiplier Points equivalent to 20% of your total amount of OPEN and Escrowed OPEN, your "Boost Percentage" would display as 20%, and you would get an extra $200 of ETH rewards annualized. The “Boost Percentage” is calculated from the ratio of Multiplier Points to your total amount of staked OPEN:
 
 Boost Percentage = 100 \* (Staked Multiplier Points) / (Staked OPEN + Staked esOPEN)
 
@@ -69,7 +69,7 @@ An example:
 
 ## Distribution Rate
 
-Escrowed OPEN will be distributed to staked OPEN and OLP according to the schedule in the latest [snapshot vote](https://snapshot.org/#/gmx.eth/proposal/0xb370249628b2226c6a7e771b2959c3b2e80eada36ad3618a7fc39f964213643e).
+Escrowed OPEN will be distributed to staked OPEN and OLP according to the schedule in the latest [snapshot vote](https://snapshot.org/#/openworld.eth/proposal).
 
 Rewards are distributed every second to staked tokens.
 

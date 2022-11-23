@@ -13,7 +13,7 @@ If you do not have a wallet yet, you can use MetaMask: [https://metamask.io/down
 
 ## **Connecting your wallet**
 
-After you have a wallet, you can connect your wallet by pressing the "Connect Wallet" button on the OpenWorld Trade page: [https://app.gmx.io/#/trade](https://app.gmx.io/#/trade)
+After you have a wallet, you can connect your wallet by pressing the "Connect Wallet" button on the OpenWorld Trade page: [https://app.openworld.vision/#/trade](https://app.openworld.vision/#/trade)
 
 ![](broken-reference)
 
@@ -47,7 +47,7 @@ For a list of RPC URLs and their statuses: [https://chainlist.org/](https://chai
 
 You will need to have ETH in your Arbitrum account or AVAX in your Avalanche account to start trading.&#x20;
 
-You can buy ETH directly on Arbitrum using Banxa: [https://gmx.banxa.com](https://gmx.banxa.com/).
+You can buy ETH directly on Arbitrum using Banxa: [https://openworld.banxa.com](https://openworld.banxa.com).
 
 Alternatively, if you have ETH or AVAX on other networks you can transfer ETH to Arbitrum.
 
@@ -61,7 +61,7 @@ For Avalanche, you can additionally use the bridge at [https://bridge.avax.netwo
 
 ## **Swaps**
 
-OpenWorld supports both swaps and leverage trading. For swaps, click on the "Swap" tab on [https://app.gmx.io/#/trade](https://app.gmx.io/#/trade), this will open the interface to swap tokens with zero price impact.
+OpenWorld supports both swaps and leverage trading. For swaps, click on the "Swap" tab on [https://app.openworld.vision/#/trade](https://app.openworld.vision/#/trade), this will open the interface to swap tokens with zero price impact.
 
 For leverage trading, please see the below sections for more information.
 
@@ -167,6 +167,6 @@ There is also an [execution fee](trading.md#execution-fee) detailed below which 
 There are two transactions involved in opening / closing / editing a position:
 
 1. User sends the first transaction to request open / close / deposit collateral / withdraw collateral
-2. [Keepers](https://gmx-io.notion.site/gmx-io/GMX-Technical-Overview-47fc5ed832e243afb9e97e8a4a036353) observe the blockchain for these requests then execute them
+2. Keepers observe the blockchain for these requests then execute them
 
 The cost of the second transaction is displayed in the confirmation box as the "Execution Fee". This network cost is paid to the blockchain network.

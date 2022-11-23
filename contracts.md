@@ -24,7 +24,7 @@ When minting OLP:
 * The RewardRouter then deposits the OPEN tokens to the FeeOlpTracker which distributes ETH or AVAX to the staked tokens
 * Finally the RewardRouter deposits the FeeOlpTracker tokens into the StakedOlpTracker which distributes esOPEN to staked tokens
 
-Addresses for contracts can be found at [https://github.com/gmx-io/gmx-interface/blob/master/src/Addresses.js](https://github.com/gmx-io/gmx-interface/blob/master/src/Addresses.js).
+Addresses for contracts can be found at [https://github.com/OpenWorldVision](https://github.com/OpenWorldVision)
 
 To get the deposit balances for an account you can use RewardTracker.depositBalances(account, token), or RewardReader.getDepositBalances(account, depositTokens, rewardTrackers).
 

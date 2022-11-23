@@ -1,6 +1,6 @@
 # OpenWorld
 
-> Suggest Edit at [Github](https://github.com/OpenWorldVision/docs.openworld.vision)
+> Suggest Edit at [Github](https://github.com/OpenWorldVision)
 >
 > View Wiki at [OpenWorld Wiki](https://wiki.openworld.vision)
 
@@ -12,6 +12,6 @@ Trading is supported by a unique multi-asset pool that earns liquidity providers
 
 Dynamic pricing is supported by [Chainlink Oracles](https://chain.link/) and an aggregate of prices from leading volume exchanges.
 
-* For token holders: [Tokenomics](broken-reference) and [Rewards](broken-reference)
-* For liquidity providers: [OLP](broken-reference)
-* For traders: [Trading](broken-reference)
+* For token holders: [Tokenomics](tokenomics.md) and [Rewards](rewards.md)
+* For liquidity providers: [OLP](olp.md)
+* For traders: [Trading](trading.md)

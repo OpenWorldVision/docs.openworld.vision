@@ -8,22 +8,22 @@ The URLs below are for Arbitrum, for Avalanche the same URLs are available, with
 
 ## **Tokens**
 
-* URL: [https://api.gmx.io/tokens](https://api.gmx.io/tokens)
+* URL: [https://api.openworld.vision/tokens](ttps://api.openworld.vision/tokens)
 * Retrieve a list of tokens and info for each token
 * USD amounts are multiplied by (10 \*\* 30)
 * Token amounts are multiplied by (10 \*\* token. decimals)
 
 ## **Prices**
 
-The tokens endpoint will return the current prices in the contract, these prices are used for swaps, OLP minting / redeeming. For opening and closing positions, the [realtime median prices](https://gmx-io.notion.site/GMX-Technical-Overview-47fc5ed832e243afb9e97e8a4a036353) are used, to get these values:
+The tokens endpoint will return the current prices in the contract, these prices are used for swaps, OLP minting / redeeming. For opening and closing positions, the realtime median prices are used, to get these values:
 
-* URL: [https://api.gmx.io/prices](https://api.gmx.io/prices)
+* URL: [https://api.openworld.vision/prices](https://api.openworld.vision/prices)
 * Retrieve a list of token prices
 * Prices are multiplied by (10 \*\* 30)
 
 ## **Actions**
 
-* URL: [https://api.gmx.io/actions](https://api.gmx.io/actions)
+* URL: [https://api.openworld.vision/actions](https://api.gmx.io/actions)
 * Retrieve a list of actions, these will include swaps, increasing a position, decreasing a position, orders and liquidations
 * Params:
   * account (optional): pass in the checksum address of an account
@@ -32,10 +32,10 @@ The tokens endpoint will return the current prices in the contract, these prices
 
 ## **Volume**
 
-* Hourly: [https://api.gmx.io/hourly\_volume](https://api.gmx.io/hourly\_volume)
-* Daily: [https://api.gmx.io/daily\_volume](https://api.gmx.io/daily\_volume)
-* Weekly: [https://api.gmx.io/weekly\_volume](https://api.gmx.io/weekly\_volume)
-* Total: [https://api.gmx.io/total\_volume](https://api.gmx.io/total\_volume)
+* Hourly: [https://api.openworld.vision/hourly\_volume](https://api.openworld.vision/hourly\_volume)
+* Daily: [https://api.openworld.vision/daily\_volume](https://api.openworld.vision/daily\_volume)
+* Weekly: [https://api.openworld.vision/weekly\_volume](https://api.openworld.vision/weekly\_volume)
+* Total: [https://api.openworld.vision/total\_volume](https://api.openworld.vision/total\_volume)
 * Volumes are separated by action, token, day / week
 * Params:
   * after (optional): for pagination, the id to start after
