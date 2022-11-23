@@ -43,7 +43,6 @@
 ## Information
 
 * [DISCLAIMER AND RIGHTS](information/disclaimer-and-rights.md)
-* [Help & FAQ](information/faq.md)
 * [Terms of Use](information/terms-of-use.md)
 * [Privacy Policy](information/privacy-policy.md)
 * [Tips & Guide](information/tips-and-guide/README.md)
