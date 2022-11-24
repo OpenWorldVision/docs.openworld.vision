@@ -1,6 +1,6 @@
 # App Links
 
-Community deployed and maintained instances of the OpenWord[ front end](https://github.com/gmx-io/gmx-interface):
+Community deployed and maintained instances of the OpenWord[ front end](https://github.com/OpenWorldVision):
 
 * [https://](https://app.openworld.vision)[app.openworld.vision](http://app.openworld.vision/)
 * [https://openworld.x](https://openworld.x)
