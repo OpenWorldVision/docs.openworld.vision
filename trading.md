@@ -7,19 +7,17 @@ description: >-
 
 # Trading
 
-## **Adding a wallet**
-
 If you do not have a wallet yet, you can use MetaMask: [https://metamask.io/download.html](https://metamask.io/download.html)
 
 ## **Connecting your wallet**
 
 After you have a wallet, you can connect your wallet by pressing the "Connect Wallet" button on the OpenWorld Trade page: [https://app.openworld.vision/#/trade](https://app.openworld.vision/#/trade)
 
-![](broken-reference)
+<figure><img src=".gitbook/assets/connect-wallet-02.png" alt=""><figcaption></figcaption></figure>
 
 If you see the message below, click on "Add Arbitrum" or "Add Avalanche" to add the Arbitrum / Avalanche network to your wallet.
 
-![](broken-reference)
+<figure><img src=".gitbook/assets/add-network (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, you can manually add the Arbitrum network: [https://arbitrum.io/bridge-tutorial/](https://arbitrum.io/bridge-tutorial/).
 
@@ -78,7 +76,7 @@ Click on "Long" or "Short" depending on which side you would like to open a leve
 
 After selecting your side, key in the amount you want to pay and the leverage you want to use, in the below example 0.1 ETH worth 352.33 USD is being used to buy a 5x ETH (Ethereum) long position of size 1752.89 USD
 
-![](broken-reference)
+<figure><img src=".gitbook/assets/long-eth.png" alt=""><figcaption></figcaption></figure>
 
 The "Entry Price" is $3541.17 and the Liquidation Price is $2903.76. Below the swap box you would also see the "Exit Price", which is the price that would be used to calculate profits if you open and then immediately close a position. The exit price will change with the price of the token you are longing or shorting.
 
@@ -90,7 +88,7 @@ While there are no price impacts for trades, there can be slippage due to price 
 
 ## Managing Positions
 
-![](broken-reference)
+<figure><img src=".gitbook/assets/positions-02.png" alt=""><figcaption></figcaption></figure>
 
 After opening a trade, you would be able to view it under your Positions list, you can also click on "Edit" to deposit or withdraw collateral, this allows you to manage your leverage and liquidation price.
 
@@ -114,7 +112,7 @@ For short positions, profits will be paid out in the same stablecoin that you us
 
 Note that [arbiscan](https://arbiscan.io/) may not always show ETH transfers so when you close long positions on Arbitrum and receive ETH the transaction might not show the transfer but your ETH balance would have increased. If the ETH transfer does show, it would be displayed under the "Interacted With" section:
 
-![In this example, 0.0186.. ETH is transferred to the user's account 0x9f169...](broken-reference)
+<figure><img src=".gitbook/assets/eth-transfer.png" alt=""><figcaption></figcaption></figure>
 
 ## Stop-Loss / Take-Profit Orders
 
@@ -132,7 +130,7 @@ Note that orders are not guaranteed to execute, this can occur in a few situatio
 
 Additionally, trigger orders are market orders and are not guaranteed to execute at the trigger price.
 
-![](broken-reference)
+<figure><img src=".gitbook/assets/trigger-order.png" alt=""><figcaption></figcaption></figure>
 
 ## **Partial Liquidations**
 
@@ -148,7 +146,7 @@ If there is any collateral remaining after deducting losses and fees, then the c
 
 There is no price impact for trades on OpenWorld, so you can execute large trades exactly at the mark price. During times of high volatility there will be a spread from the Chainlink price to the median price of reference exchanges.
 
-![](broken-reference)
+<figure><img src=".gitbook/assets/Screenshot 2021-09-01 at 7.39.14 PM.png" alt=""><figcaption></figcaption></figure>
 
 The mark prices are displayed next to the market name, long positions will be opened at the higher price and closed at the lower price while short positions will be opened at the lower price and closed at the higher price.
 
