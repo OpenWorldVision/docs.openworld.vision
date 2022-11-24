@@ -6,7 +6,13 @@ description: OLP is the platform's liquidity provider token.
 
 ### Overview <a href="#overview" id="overview"></a>
 
-OLP consists of an index of assets used for swaps and leverage trading. It can be minted using any index asset and burnt to redeem any index asset. The price for minting and redemption is calculated based on (the total worth of assets in index including profits and losses of open positions) / (OLP supply).For Arbitrum, holders of the OLP token earnEscrowedOLPrewardsand 70% of platform fees distributed in ETH. For Avalanche, holders of the OLP token earnEscrowedOLPrewardsand 70% of platform fees distributed in AVAX. Note that the fees distributed are based on the number after deductingreferral rewardsand the network costs ofkeepers, keeper costs are usually around 1% of the total fees. Staked OLP token address (Arbitrum):0x1aDDD80E6039594eE970E5872D247bf0414C8903​. Staked OLP token address (Avalanche):0x9e295B5B976a184B14aD8cd72413aD846C299660​Note that OLP is specific to the network you mint it on, it is not directly transferrable between networks and the price/rewards to the tokens will differ between networks.As OLP holders provide liquidity for leverage trading, they will make a profit when leverage traders make a loss and vice versa. Past PnL data, OLP price chart, and other stats can be viewed [athttps://stats.openworld.vision](athttps://stats.openworld.vision). Minting and RedeemingMinting OLP
+OLP consists of an index of assets used for swaps and leverage trading. It can be minted using any index asset and burnt to redeem any index asset. The price for minting and redemption is calculated based on (the total worth of assets in index including profits and losses of open positions) / (OLP supply).For Arbitrum, holders of the OLP token earnEscrowedOLPrewardsand 70% of platform fees distributed in ETH. For Avalanche, holders of the OLP token earnEscrowedOLPrewardsand 70% of platform fees distributed in AVAX. Note that the fees distributed are based on the number after deductingreferral rewardsand the network costs ofkeepers, keeper costs are usually around 1% of the total fees.&#x20;
+
+Staked OLP token address (Arbitrum):
+
+&#x20;Staked OLP token address (Avalanche):
+
+Note that OLP is specific to the network you mint it on, it is not directly transferrable between networks and the price/rewards to the tokens will differ between networks.As OLP holders provide liquidity for leverage trading, they will make a profit when leverage traders make a loss and vice versa. Past PnL data, OLP price chart, and other stats can be viewed [athttps://stats.openworld.vision](athttps://stats.openworld.vision). Minting and RedeemingMinting OLP
 
 * Bridge any of the OLP tokens to Arbitrum / Avalanche, a list of OLP tokens can be found on the [Dashboard](https://app.openworld.vision).
   * Fees will be lower for tokens that the pool has less of, check the "[Save on Fees](https://app.openworld.vision/#/buy\_olp)" section to get the lowest fees
@@ -25,4 +31,4 @@ The fees to mint OLP, burn OLP or to perform swaps will vary based on whether th
 
 ### Risks <a href="#risks" id="risks"></a>
 
-Caution should be exercised when interacting with any smart contract or blockchain application. While risks are attempted to be mitigated through testing, audits, and bug bounties, there is always a risk of vulnerabilities in smart contract code.For details of contract operation please read the [Contracts](https://app.gitbook.com/s/fIU6S055TNsNeN5h66Fd/olp) section.
+Caution should be exercised when interacting with any smart contract or blockchain application. While risks are attempted to be mitigated through testing, audits, and bug bounties, there is always a risk of vulnerabilities in smart contract code.For details of contract operation please read the Contracts section.
