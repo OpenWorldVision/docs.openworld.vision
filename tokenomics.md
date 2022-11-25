@@ -13,16 +13,16 @@ The governance token of OpenWorld is OPEN (BSC Contract Address: 0x27a339d9b59b2
 
 OPEN has a limit supply of 100M and is distributed as follow (as of 2022 Nov 24th):
 
-* BSC - Multisig Treasury: 36M
-* BSC - Market Liquidity Reserve: 14M
-* BSC - Private Placement Fund: 1M
-* BSC - Multichain LP Harmony/BSC: 2M
-* BSC - PancakeSwap LP1: 2.7M
-* BSC - PancakeSwap LP2: 0.5M
+* BSC - Multisig Treasury \[[Wallet Address](https://bscscan.com/address/0x2b0ae181fe6c13bd40acd3dc9ce5b0c323a9d8ae)]: 36M
+* BSC - Market Liquidity Reserve \[[Wallet Address](https://bscscan.com/address/0xc7e87456d0a3acce76237677ce9aafdf8b0caa70)]: 14M
+* BSC - Private Placement Fund \[[Wallet Address](https://bscscan.com/address/0x62b03139c01ee27f5cf046391d3c7ab4498cd363)]: 1M
+* BSC - Multichain LP Harmony/BSC \[[Wallet Address](https://bscscan.com/address/0xc3a134d42d93f3168931c0e4ac3ed8ab7096267f)]: 2M
+* BSC - PancakeSwap LP1 \[[Wallet Address](https://bscscan.com/address/0x0d352ea95cdb52294742a32123f50be474163038)]: 2.7M
+* BSC - PancakeSwap LP2 \[[Wallet Address](https://bscscan.com/address/0xfea1510bd3ea668a4d14f7f1d95f7ab4ecaa66ed)]: 0.5M
 * BSC - Combination of Bond, Stakes, Escrows: 2.2M
 * BSC - Airdrop/Marketing/Others: 1.6M
-* HarmonyONE - Reserve: 9M
-* HarmonyONE - Treasury: 5.5M
+* HarmonyONE - Reserve \[[Wallet Address](https://explorer.harmony.one/address/0x9fb83c0635de2e815fd1c21b3a292277540c2e8d)]: 9M
+* HarmonyONE - Treasury \[[Wallet Address](https://explorer.harmony.one/address/0x7c9abb808b4ac32c6c543765d26da2befbe379ba)]: 5.5M
 * HarmonyONE - Combination of Bonds/SushiSwap LP: 0.5M
 
 Total OPEN tracked in BSC: 60M (deployable: 55M)
