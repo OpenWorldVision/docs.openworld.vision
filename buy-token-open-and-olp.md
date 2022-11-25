@@ -1,8 +1,30 @@
 ---
-description: OLP is the platform's liquidity provider token.
+description: OPEN is the governance token, OLP is the liquidity provider token
 ---
 
-# OLP
+# Buy Token: OPEN and OLP
+
+### Getting into Crypto <a href="#overview" id="overview"></a>
+
+As a decentralized exchange with no custody function, you will trade directly from your wallet and have full control of your fund. In order to trade, you need to have a crypto wallet yet, you can use MetaMask (or any other crypto wallet such as SafePal or Trust Wallet):
+
+* [MetaMask Link](https://metamask.io/download.html)
+* [SafePal Link](https://www.safepal.com/download)
+* [Trust Wallet Link](https://trustwallet.com/)
+
+### **Connecting Your Wallet**
+
+
+
+Acquite BNB
+
+### OPEN Token <a href="#overview" id="overview"></a>
+
+Token can be purchased directly through Decentralize Exchanges such as PancakeSwap, 1Inch, or BogSwap. &#x20;
+
+* [PancakeSwap Link](https://pancakeswap.finance/swap?outputCurrency=0x27a339d9B59b21390d7209b78a839868E319301B\&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56)
+* [1Inch Link](https://app.1inch.io/#/56/unified/swap/BNB/OPEN)
+* [BogSwap Link](https://app.bogged.finance/bsc/swap?tokenIn=0xe9e7cea3dedca5984780bafc599bd69add087d56\&tokenOut=0x27a339d9B59b21390d7209b78a839868E319301B\&utm\_source=telegram\&utm\_medium=tgbot\&utm\_campaign=OPEN)
 
 ### Overview <a href="#overview" id="overview"></a>
 
@@ -10,7 +32,7 @@ OLP consists of an index of assets used for swaps and leverage trading. It can b
 
 Staked OLP token address (Arbitrum):
 
-&#x20;Staked OLP token address (Avalanche):
+Staked OLP token address (Avalanche):
 
 Note that OLP is specific to the network you mint it on, it is not directly transferrable between networks and the price/rewards to the tokens will differ between networks.As OLP holders provide liquidity for leverage trading, they will make a profit when leverage traders make a loss and vice versa. Past PnL data, OLP price chart, and other stats can be viewed [athttps://stats.openworld.vision](athttps://stats.openworld.vision). Minting and RedeemingMinting OLP
 
