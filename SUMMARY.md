@@ -7,6 +7,7 @@
 * [Referrals](referrals.md)
 * [Contracts](contracts.md)
 * [Audit](audit.md)
+* [Risk Management](risk-management.md)
 * [OpenWorld Team](cryptowar-team.md)
 * [Backers & Partners](backers-and-partners.md)
 * [API](api.md)

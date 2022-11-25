@@ -1,28 +1,42 @@
 ---
-description: A broad view about how OpenWorld team navigate and build the protocol
+description: >-
+  Roadmap will be updated during the process of implementation to best represent
+  team's direction to new changes.
 ---
 
 # Roadmap
 
-This roadmap serves as a guideline on how we approach and build OpenWorld, during implementation of the projects, market condition will change and will affect how we view what need to be done and how priority they are.  Thus milestones might be changed and adjust along the way.
+### Phase 1 - Build the Basic Metaverse
 
-### Phase 1 - Build the Basics of OpenWorld Derivative DEX
+Estimated implementation time: 10 months - August, 2021 to May, 2022
 
-* Milestone 1 - Portal for decentralized margin trading.
-* Milestone 2 - Liquidity pool creating.
-* Milestone 3 - Asset offered to trade, starting with BTC.
-* Milestone 4 - Expansion to ETH and possible more assets to trade.
-* Milestone 5 - OLP asset pool dynamic rebalancing calibration.
-* Milestone 6 - Swap function (spot market) integration.
+* Milestone 1 - P2E: Heroes battling Monsters.
+* Milestone 2 - PvP: Heroes battling other Heroes.
+* Milestone 3 - Arena Features: Lucky Wheel, RPS.
+* Milestone 4 - DeFi: Bond Single Asset Staking.
+* Milestone 5 - Bridge to ThunderCoreHub.
 
-### Phase 2 - Horizontally Expand to Different Chains and Tradable Assets
+### Phase 2 - Evolving the Metaverse
 
-* Milestone 1 - Expansion to further tradable assets, prioritize most liquid and largest cap cryptoassets first.
-* Milestone 2 - Bridging to HarmonyONE.
-* Milestone 2 - Bridging to other chains beyond BSC and HarmonyONE.
+Estimated implementation time: 1 year - June, 2022 to May, 2023
 
-### Phase 3 - Expand to Non-Crypto and Build Decentralized Social Platform for Traders
+* Milestone 1 - OpenWorld metaverse initiation.
+* Milestone 2 - Bridge to Harmony.
+* Milestone 2 - Avatar system.
+* Milestone 3 - DEX.
+* Milestone 4 - Building a Relationship System for Avatars.
+* Milestone 5 - Building digital economy: Professions.
+* Milestone 6 - DeFi: LP Staking, Credit Market.
+* Milestone 7 - Avatar Customization.
+* Milestone 8 - Develop 3D art concepts for Phase 3
+* Milestone 9 - Virtual land release.
 
-* Milestone 1 - Expansion to further tradable assets from global equity, debt, and commodity market.
-* Milestone 2 - Creating a social network for traders to share, follow, and communicate to each other.
-* Milestone 3 - Offering value added products such as trade replicating for leading traders to monetize their trading skills and followers to benefit from top traders capability.
+### Phase 3 - Going to the 3D Cross-Platform Metaverse
+
+Estimated implementation time: 3 years - May, 2023 to April, 2026
+
+* Milestone 1 - Metaverse equity investment DAO structure template.
+* Milestone 2 - Building digital economy: Macro finance.
+* Milestone 3 - 3D Metaverse.
+* Milestone 4 - Open up ecosystem for indie game studios and content creators.
+* Milestone 5 - Expand to multiple chains, still the main base stays at Harmony.
