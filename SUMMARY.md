@@ -2,10 +2,9 @@
 
 * [OpenWorld](README.md)
 * [Tokenomics](tokenomics.md)
-  * [Supply Update](tokenomics/supply-update.md)
+* [Roadmap](roadmap.md)
 * [OpenWorld Team](cryptowar-team.md)
 * [Backers & Partners](backers-and-partners.md)
-* [Roadmap](roadmap.md)
 * [Social Links](other-links.md)
 * [App Links](app-links.md)
 * [OLP](olp.md)
