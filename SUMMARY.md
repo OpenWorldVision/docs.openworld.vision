@@ -1,9 +1,9 @@
 # Table of contents
 
 * [OpenWorld](README.md)
-* [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
-* [Buy Token: OPEN and OLP](buy-token-open-and-olp.md)
+* [Tokenomics](tokenomics.md)
+* [Buy Token: OPEN and OLP](olp.md)
 * [Referrals](referrals.md)
 * [Contracts](contracts.md)
 * [Audit](audit.md)
