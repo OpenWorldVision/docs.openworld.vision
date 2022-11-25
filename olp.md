@@ -46,9 +46,13 @@ In order to access into revenue makes by OpenWorld protocol, you need to stake y
 
 ### The OLP Token <a href="#overview" id="overview"></a>
 
-OLP consists of an index of assets used for swaps and leverage trading. It can be minted using any index asset and burnt to redeem any index asset.  The price for minting and redemption is calculated based on (the total worth of assets in index including profits and losses of open positions) / (OLP supply).  Note that the fees distributed are based on the number after deducting referral rewards and the network costs of keepers, keeper costs are usually around 1% of the total fees.&#x20;
+OLP is proof of stake of index assets that is contained within OpenWorld's asset pools.  The assets that are staked for OLP are used for trading.  OLP can be minted using any index asset and burnt to redeem any index asset at any time.  To unstake OLP, key in the amount of OLP to be unstaked and redeem accordingly.  Note that the fees distributed are based on the number after deducting referral rewards and the network costs of keepers, keeper costs are usually around 1% of the total fees.&#x20;
 
 Staked OLP token address (BSC): \[Link]
 
-Note that OLP is specific to the network you mint it on, it is not directly transferrable between networks and the price/rewards to the tokens will differ between networks.  As OLP holders provide liquidity for leverage trading, they will make a profit when leverage traders make a loss and vice versa.  Past PnL data, OLP price chart, and other stats can be viewed at[ https://stats.openworld.vision](athttps://stats.openworld.vision)
+As is noted on Tokenomics page, OLP is chain-specific, it means that OLP from BSC Network cannot be transferred to HarmonyONE Network, for example, and redeem for HarmonyONE index assets.  &#x20;
+
+### **Dynamic Rebalancing**
+
+OLP's liquidity pools are targeted to balance around certain weights among its assets. These weight are not static and is dynamically adjusted according to market positions of traders. The token weights can be viewed real time at \[OLP Asset Pools Link]. The reason for rebalancing is to position and hedge the OLP liquidity pools from traders skewed exposure (collectively overly long or overly short) and thus reduce synthetic exposure of OLP holders to market directional risk.
 
