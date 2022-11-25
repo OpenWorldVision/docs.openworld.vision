@@ -2,7 +2,7 @@
 description: >-
   OpenWorld has a dual token model, with token OPEN serves as the governance
   token and token OLP (OpenWorld Liquidity Provider) serves as the depository
-  token represents ownership of the LP pools.
+  token represents ownership of the LP pools
 ---
 
 # Tokenomics
