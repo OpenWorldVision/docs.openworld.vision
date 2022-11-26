@@ -4,7 +4,6 @@
 * [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [Buy Token: OPEN and OLP](olp.md)
-* [Contracts](contracts.md)
 * [Referrals](referrals.md)
 * [Risk Management](risk-management.md)
 * [OpenWorld Team](cryptowar-team.md)
