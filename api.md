@@ -1,5 +1,11 @@
 # API
 
+For contract interaction: https://gmxio.gitbook.io/gmx/contracts.&#x20;
+
+The URLs below are for Arbitrum, for Avalanche the same URLs are available, with the base URL being https://gmx-avax-server.uc.r.appsp
+
+
+
 ## **Tokens**
 
 * URL: [https://api.openworld.vision/tokens](ttps://api.openworld.vision/tokens)
@@ -9,7 +15,7 @@
 
 ## **Prices**
 
-The tokens endpoint will return the current prices in the contract, these prices are used for swaps, OLP minting / redeeming.  For opening and closing positions, the realtime median prices are used, to get these values:
+The tokens endpoint will return the current prices in the contract, these prices are used for swaps, OLP minting / redeeming. For opening and closing positions, the realtime median prices are used, to get these values:
 
 * URL: [https://api.openworld.vision/prices](https://api.openworld.vision/prices)
 * Retrieve a list of token prices
