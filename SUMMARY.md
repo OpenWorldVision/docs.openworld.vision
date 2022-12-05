@@ -8,19 +8,14 @@
 * [Risk Management](risk-management.md)
 * [OpenWorld Team](cryptowar-team.md)
 * [Backers & Partners](backers-and-partners.md)
-* [Audit](audit.md)
-* [API](api.md)
-* [Bug Bounty](bug-bounty.md)
-* [Social Links](other-links.md)
-* [App Links](app-links.md)
-* [Media Kit](media-kit.md)
-
-## Information
-
-* [DISCLAIMER AND RIGHTS](information/disclaimer-and-rights.md)
-* [Terms of Use](information/terms-of-use.md)
-* [Privacy Policy](information/privacy-policy.md)
 
 ## Links
 
+* [Social Links](links/other-links.md)
+* [App Links](links/app-links.md)
 * [HomePage](https://cryptowar.network)
+
+## Other
+
+* [API](other/api.md)
+* [Bug Bounty](other/bug-bounty.md)
