@@ -14,8 +14,3 @@
 * [Social Links](links/other-links.md)
 * [App Links](links/app-links.md)
 * [HomePage](https://cryptowar.network)
-
-## Other
-
-* [API](other/api.md)
-* [Bug Bounty](other/bug-bounty.md)
