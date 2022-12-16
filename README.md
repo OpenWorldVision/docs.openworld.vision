@@ -4,6 +4,8 @@ description: Decentralized perpetual exchange
 
 # OpenWorld
 
+\->  [<mark style="color:orange;">Phiên bản Tếng Việt</mark>](https://vi.wiki.openworld.vision)<mark style="color:orange;"></mark>
+
 OpenWorld is a decentralized perpetual exchange that aims to provide crypto community derivative exposure to not only cryptoassets but also wider financial products and assets that have been developed from traditional finance space.
 
 Trading is facilitated by counter-positioned asset pools that are either single-asset or multi-asset that earns yields through leveraged funding interests and trading fees. The pools are positioned to absorb trades from traders and thus make a profit when traders close transactions at a loss and take a loss when trader close transactions at a profit.
