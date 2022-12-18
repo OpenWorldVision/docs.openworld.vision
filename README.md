@@ -4,7 +4,7 @@ description: Decentralized perpetual exchange
 
 # OpenWorld
 
-\->  [<mark style="color:orange;">Phiên bản Tếng Việt</mark>](https://vi.wiki.openworld.vision)<mark style="color:orange;"></mark>
+\->  :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
 
 OpenWorld is a decentralized perpetual exchange that aims to provide crypto community derivative exposure to not only cryptoassets but also wider financial products and assets that have been developed from traditional finance space.
 
