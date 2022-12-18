@@ -26,7 +26,3 @@ This roadmap serves as a guideline on how we approach and build OpenWorld, durin
 * Milestone 1 - Expansion to further tradable assets from global equity, debt, and commodity market.
 * Milestone 2 - Creating a social network for traders to share, follow, and communicate to each other.
 * Milestone 3 - Offering value added products such as trade replicating for leading traders to monetize their trading skills and followers to benefit from top traders capability.
-
-
-
-#### :flag\_vn: [<mark style="color:orange;">Vietnamese Editi</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;">on</mark>
