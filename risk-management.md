@@ -40,5 +40,3 @@ Unfortunately with anonymity, technological complexity, and notoriously unfriend
 * High Frequency Bot Traders: High frequency bot traders can try to exploit the system and take advantage of the exempt of price impact on perpetual decentralized exchange that use Oracle for pricing, as well as zero price impact for swapping on spot market.
 * Hackers.
 * Risks from infrastructure providers: such as integrity of ChainLink Oracle, stability of the Layer 1 protocol we work upon, security parties such as Gnosis for treasury function, and so on. &#x20;
-
-#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
