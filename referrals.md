@@ -42,3 +42,7 @@ Rebates and discounts apply on the opening and closing fees for leverage trading
 The opening and closing fees are 0.1% each on OpenWorld, as there is no price impact for trades on perpetual market, the referrers earn on the full maker fee and from what would otherwise be spread on other exchanges.  Thus, referrers would earn rebates on actual trading volume on OpenWorld and these are typically higher than earnings from similar programs thanks to the different in price slippage and spreads.
 
 Institutional referral such as wallet providers, NFT projects, and protocols will be eligible for Referral Program as well.
+
+
+
+#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
