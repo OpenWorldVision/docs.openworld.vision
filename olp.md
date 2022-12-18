@@ -52,3 +52,6 @@ As is noted on Tokenomics page, OLP is chain-specific, it means that OLP from BS
 
 OLP's liquidity pools are targeted to balance around certain weights among its assets. These weight are not static and is dynamically adjusted according to market positions of traders. The token weights can be viewed real time at \[OLP Asset Pools Link]. The reason for rebalancing is to position and hedge the OLP liquidity pools from traders skewed exposure (collectively overly long or overly short) and thus reduce synthetic exposure of OLP holders to market directional risk.
 
+
+
+#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>

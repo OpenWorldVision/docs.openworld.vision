@@ -37,6 +37,4 @@ The liquidity provider token of OpenWorld is OLP. OLP represents proof of deposi
 
 As OLP provides liquidity for traders by taking counter-position of the traders, OLP makes a profit when traders make a loss and vice versa. OLP is entitled to 70% of the profit generates from the chain-specific OpenWorld protocol (i.e. BSC OLP is entitled to 70% of profit generates from trading activities facilitated by OpenWorld in Binance Smart Chain specifically, BSC OLP has no bearing to profits or losses from let say HarmonyONE OLP).
 
-
-
-#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
+****
