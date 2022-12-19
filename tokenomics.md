@@ -9,9 +9,9 @@ description: >-
 
 ### **Governance Token**
 
-The governance token of OpenWorld is OPEN (BSC Contract Address: 0x27a339d9b59b21390d7209b78a839868e319301b, [\[BSC Link\]](https://bscscan.com/token/0x27a339d9b59b21390d7209b78a839868e319301b)).  All holders of OPEN can vote on changes of the protocol with one OPEN represents one vote.  OPEN holders can also stake OPEN to receive sOPEN, holders of sOPEN is entitled to 30% share of the profit generates from the protocol.  sOPEN holders can also vote on changes of the protocol similarly to OPEN holders with voting power of sOPEN to OPEN as 1:1.
+The governance token of OpenWorld is OPEN (BSC Contract Address: 0x27a339d9b59b21390d7209b78a839868e319301b, [\[BSC Link\]](https://bscscan.com/token/0x27a339d9b59b21390d7209b78a839868e319301b)).  All holders of OPEN can vote on changes of the protocol with one OPEN represents one vote.  OPEN holders can also stake OPEN to receive sOPEN, holders of sOPEN is entitled to 30% share of profit generates from the protocol.  sOPEN holders can also vote on changes of the protocol similarly to OPEN holders with voting power of sOPEN to OPEN as 1:1.
 
-OPEN has a limit supply of 100M and is distributed as follows (as of 2022 Nov 24th):
+OPEN has a limit supply of 100M and is distributed as follow (as of 2022 Nov 24th):
 
 * BSC - Multisig Treasury \[[Wallet Address](https://bscscan.com/address/0x2b0ae181fe6c13bd40acd3dc9ce5b0c323a9d8ae)]: 36M
 * BSC - Market Liquidity Reserve \[[Wallet Address](https://bscscan.com/address/0xc7e87456d0a3acce76237677ce9aafdf8b0caa70)]: 14M
@@ -33,10 +33,8 @@ Total OPEN float on both BSC and HarmonyONE: 25M
 
 ### **Liquidity Provider Token**
 
-The liquidity provider token of OpenWorld is OLP. OLP represents proof of depository and ownership in the asset pools that it is minted from. OLP can be minted using any asset in the liquidity pool and burnt to redeem any asset from the liquidity pool. The price of OLP is calculated by the total value of the liquidity pool including marked-to-market profits and losses of open positions divided by total OLP supply.
+The liquidity provider token of OpenWorld is OLP. OLP represents proof of depository and ownership in the asset pools that it is minted from. OLP can be minted using any asset in the liquidity pool and burnt to redeem any asset from the liquidity pool. The price of OLP is calculated by total value of the liquidity pool including marked-to-market profits and losses of open positions divided by total OLP supply.
 
 As OLP provides liquidity for traders by taking counter-position of the traders, OLP makes a profit when traders make a loss and vice versa. OLP is entitled to 70% of the profit generates from the chain-specific OpenWorld protocol (i.e. BSC OLP is entitled to 70% of profit generates from trading activities facilitated by OpenWorld in Binance Smart Chain specifically, BSC OLP has no bearing to profits or losses from let say HarmonyONE OLP).
 
-
-
-#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
+****
