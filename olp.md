@@ -38,7 +38,7 @@ Owning OPEN means you are a contributor and a community member of the project.  
 
 ### Stake OPEN for sOPEN
 
-In order to access into revenue makes by OpenWorld protocol, you need to stake your OPEN.  After you stake OPEN through our \[Stake Page], you will receive sOPEN as a proof of stake.  The sOPEN you hold is a gateway for you to earn revenue from OpenWorld protocol during the specific monthly time period when you stake.  If you stake OPEN after the earning period has started, you are not eligible to receive a share of your earnings through your sOPEN.  If you unstake your OPEN before the earning period ends, you are not eligible to receive a share of your earnings through your sOPEN.
+In order to access into revenue makes by OpenWorld protocol, you need to stake your OPEN.  After you stake OPEN through our \[Stake Page], you will receive sOPEN as a proof of stake.  The sOPEN you hold is a gateway for you to earn revenue of OpenWorld protocol during the specific monthly time period when you stake.  If you stake OPEN after the earning period has started, you are not eligible to receive a share of your earnings through your sOPEN.  If you unstake your OPEN before the earning period ends, you are not eligible to receive a share of your earnings through your sOPEN.
 
 ### The OLP Token <a href="#overview" id="overview"></a>
 
@@ -46,12 +46,9 @@ OLP is proof of stake of index assets that is contained within OpenWorld's asset
 
 Staked OLP token address (BSC): \[Link]
 
-As is noted on the Tokenomics page, OLP is chain-specific, which means that OLP from BSC Network cannot be transferred to HarmonyONE Network, for example, and redeem for HarmonyONE index assets.  &#x20;
+As is noted on Tokenomics page, OLP is chain-specific, it means that OLP from BSC Network cannot be transferred to HarmonyONE Network, for example, and redeem for HarmonyONE index assets.  &#x20;
 
 ### **Dynamic Rebalancing**
 
-OLP's liquidity pools are targeted to balance around certain weights among its assets. These weights are not static and are dynamically adjusted according to market positions of traders. The token weights can be viewed in real-time at \[OLP Asset Pools Link]. The reason for rebalancing is to position and hedge the OLP liquidity pools from traders skewed exposure (collectively overly long or overly short) and thus reduce synthetic exposure of OLP holders to market directional risk.
+OLP's liquidity pools are targeted to balance around certain weights among its assets. These weight are not static and is dynamically adjusted according to market positions of traders. The token weights can be viewed real time at \[OLP Asset Pools Link]. The reason for rebalancing is to position and hedge the OLP liquidity pools from traders skewed exposure (collectively overly long or overly short) and thus reduce synthetic exposure of OLP holders to market directional risk.
 
-
-
-#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
