@@ -1,5 +1,5 @@
 ---
-description: OPEN is the governance token, OLP is the liquidity provider token
+description: OPEN is the governance token, OAP is the OpenWorld Asset Pool token
 ---
 
 # Buy Token: OPEN and OAP
@@ -40,17 +40,17 @@ Owning OPEN means you are a contributor and a community member of the project.  
 
 In order to access into revenue makes by OpenWorld protocol, you need to stake your OPEN.  After you stake OPEN through our \[Stake Page], you will receive sOPEN as a proof of stake.  The sOPEN you hold is a gateway for you to earn revenue from OpenWorld protocol during the specific monthly time period when you stake.  If you stake OPEN after the earning period has started, you are not eligible to receive a share of your earnings through your sOPEN.  If you unstake your OPEN before the earning period ends, you are not eligible to receive a share of your earnings through your sOPEN.
 
-### The OLP Token <a href="#overview" id="overview"></a>
+### The OAP Token <a href="#overview" id="overview"></a>
 
-OLP is proof of stake of index assets that is contained within OpenWorld's asset pools.  The assets that are staked for OLP are used for trading.  OLP can be minted using any index asset and burnt to redeem any index asset at any time.  To unstake OLP, key in the amount of OLP to be unstaked and redeem accordingly.  Note that the fees distributed are based on the number after deducting referral rewards and the network costs of keepers, keeper costs are usually around 1% of the total fees.&#x20;
+OAP is proof of stake of index assets that are contained within OpenWorld's asset pools.  The assets that are staked for OAP are used for trading.  OAP can be minted using any index asset and burnt to redeem any index asset at any time.  To unstake OAP, key in the amount of OAP to be unstaked and redeem accordingly.  Note that the fees distributed are based on the number after deducting referral rewards and the network costs of keepers, keeper costs are usually around 1% of the total fees.&#x20;
 
-Staked OLP token address (BSC): \[Link]
+Staked OAP token address (BSC): \[Link]
 
-As is noted on the Tokenomics page, OLP is chain-specific, which means that OLP from BSC Network cannot be transferred to HarmonyONE Network, for example, and redeem for HarmonyONE index assets.  &#x20;
+As is noted on the Tokenomics page, OAP is chain-specific, which means that OAP from BSC Network cannot be transferred to HarmonyONE Network, for example, and redeemed for HarmonyONE index assets.  &#x20;
 
 ### **Dynamic Rebalancing**
 
-OLP's liquidity pools are targeted to balance around certain weights among its assets. These weights are not static and are dynamically adjusted according to market positions of traders. The token weights can be viewed in real-time at \[OLP Asset Pools Link]. The reason for rebalancing is to position and hedge the OLP liquidity pools from traders skewed exposure (collectively overly long or overly short) and thus reduce synthetic exposure of OLP holders to market directional risk.
+OAP's liquidity pools are targeted to balance around certain weights among its assets. These weights are not static and are dynamically adjusted according to market positions of traders. The token weights can be viewed in real-time at \[OAP Asset Pools Link]. The reason for rebalancing is to position and hedge the OAP liquidity pools from traders skewed exposure (collectively overly long or overly short) and thus reduce synthetic exposure of OAP holders to market directional risk.
 
 
 

@@ -3,7 +3,7 @@
 * [OpenWorld](README.md)
 * [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics.md)
-* [Buy Token: OPEN and OAP](buy-token-open-and-oap.md)
+* [Buy Token: OPEN and OAP](olp.md)
 * [Referrals](referrals.md)
 * [Risk Management](risk-management.md)
 * [OpenWorld Team](cryptowar-team.md)
