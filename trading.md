@@ -1,3 +1,9 @@
+---
+description: >-
+  OpenWorld is a decentralized exchange allowing trading without the need for a
+  username or password.
+---
+
 # Trading
 
 **Adding a wallet**
@@ -26,17 +32,17 @@ After taking your side, key in the amount you want to pay and the leverage you w
 
 
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
 The “Entry Price” is 271.76 USD and the Liquidation Price is 228.25 USD. Below the swap box you also see the “Exit Price”, which is the price that would be used to calculate profits (or loss) if you close a position.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Managing Positions
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 After opening a trade, you can view it under your Position tab, you can also “Edit” to deposit or withdraw collateral, this allows you to manage your leverage and liquidation price.
 
@@ -74,7 +80,7 @@ Additionally, trigger orders are market orders and are not guaranteed to execute
 
 
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Partial Liquidations
 
@@ -90,7 +96,7 @@ If there is any collateral remaining after deducting losses and fees, then the c
 
 There is no price impact for trades on OpenWorld, so you can execute large trades exactly or very close to the mark price. During times of high volatility there will be a spread from the Chainlink price to the median price of reference exchanges.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 The mark prices are displayed next to the market name, long positions will be opened at the higher price and closed at the lower price while short positions will be opened at the lower price and closed at the higher price.
 
