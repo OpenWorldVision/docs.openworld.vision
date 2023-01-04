@@ -1,7 +1,7 @@
 ---
 description: >-
-  OpenWorld is a decentralized exchange allowing trading without the need for a
-  username or password.
+  OpenWorld is a decentralized perpetual exchange allowing trading without the
+  need for a username or password.
 ---
 
 # Trading
