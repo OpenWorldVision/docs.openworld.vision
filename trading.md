@@ -24,19 +24,19 @@ You can trade long or short depending on which side you would like to take on th
 
 With a long position, you make a profit when the market price goes up and you make a loss when the market price goes down. With a short position, you make a profit when the market price goes down and you make a loss when the market price goes up.
 
-After taking your side, key in the amount you want to pay and the leverage you want to use, in the example we have here, \[Alec key in] worth \[Alec key in] is being used to buy \[Alec key in] long position at the size of \[Alec key in].
+After taking your side, key in the amount you want to pay and the leverage you want to use, in the example we have here, \[key in] worth \[key in] is being used to buy \[key in] long position at the size of \[key in].
 
-The “Entry Price” is \[Alec key in] and the Liquidation Price is \[Alec key in]. Below the swap box you also see the “Exit Price”, which is the price that would be used to calculate profits (or loss) if you close a position.
+The “Entry Price” is \[key in] and the Liquidation Price is \[ key in]. Below the swap box you also see the “Exit Price”, which is the price that would be used to calculate profits (or loss) if you close a position.
 
 Managing Positions
 
 After opening a trade, you can view it under your Position tab, you can also “Edit” to deposit or withdraw collateral, this allows you to manage your leverage and liquidation price.
 
-When you open a position or deposit collateral, a snapshot of the USD price of your collateral is taken, so if your collateral is \[Alec to key in] and the price of \[Alec to key in] at the time, then your collateral is \[Alec to key in] and will not change even if the price of \[Alec to key in] changes.
+When you open a position or deposit collateral, a snapshot of the USD price of your collateral is taken, so if your collateral is \[to key in] and the price of \[to key in] at the time, then your collateral is \[to key in] and will not change even if the price of \[to key in] changes.
 
 
 
-The amount of profit and loss you make will be proportional to your position size. In this example, \[Alec to key in] has been used to buy \[Alec]. If the price of \[Alec] increase by 10%, the position would have a profit of \[Alec]. If the price of \[Alec] to decrease by 10%, the position would have a loss of \[Alec].
+The amount of profit and loss you make will be proportional to your position size. In this example, \[to key in] has been used to buy \[]. If the price of \[] increase by 10%, the position would have a profit of \[]. If the price of \[] to decrease by 10%, the position would have a loss of \[].
 
 
 
@@ -70,7 +70,7 @@ Additionally, trigger orders are market orders and are not guaranteed to execute
 
 Partial Liquidations
 
-In the example, since only \[Alec] worth of tokens is used as collateral to open the position, there will be a price at which the loss amount is very close to the collateral amount, which will trigger liquidation.
+In the example, since only \[] worth of tokens is used as collateral to open the position, there will be a price at which the loss amount is very close to the collateral amount, which will trigger liquidation.
 
 The Liquidation Price and is calculated as the price at which the (collateral - losses - borrow fee) is less than 1% of your position's size. If the token's price crosses this point then the position will be automatically closed.
 
