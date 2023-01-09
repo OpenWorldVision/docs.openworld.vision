@@ -118,3 +118,5 @@ There are two transactions involved in opening / closing / editing a position:
 The cost of the second transaction is displayed in the confirmation box as the "Execution Fee".
 
 This network cost is paid to the blockchain network.
+
+#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
