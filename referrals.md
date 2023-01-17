@@ -14,13 +14,13 @@ To create a referral code:
 
 The referral codes are chain specific.  Meaning if you want to refer to both chain BSC and HarmonyONE, you need to create 2 referral codes, one for each chain.
 
-Once you've had your code, you can copy the referral link and send it to your audience, your link should look have this format: [https://openworld.vision/#/?ref=\<your code>](https://openworld.vision/#/).
+Once you've had your code, you can copy the referral link and send it to your audience, your link should look have this format: [https://app.openworld.vision/#/?ref=\<your code>](https://openworld.vision/#/)[.](https://app.openworld.vision/#/referrals)
 
 You can share this link on any social platform.  When a trader registers to OpenWorld using your link, her account is embedded with your referral code on the smart contract level.  Your referree will get a discount meanwhile you get a rebate using your referral code, regardless of where or what device the trader trades from.
 
 The discounts and rebates will be distributed as OPEN every Monday, your rebates history will be viewable on [https://app.openworld.vision/#/referrals](https://app.openworld.vision/#/referrals).
 
-Note that the referral program is subject to change as the project goes along and the market conditions.  If we make the change, it will be through protocol proposal and should be able to be voted upon by the community.  Full referral terms at [https://openworld.vision/#/referral-terms](https://openworld.vision/#/referral-terms).
+Note that the referral program is subject to change as the project goes along and the market conditions.  If we make the change, it will be through protocol proposal and should be able to be voted upon by the community.
 
 ## Tiers
 
