@@ -9,6 +9,7 @@
 * [Risk Management](risk-management.md)
 * [OpenWorld Team](cryptowar-team.md)
 * [Backers & Partners](backers-and-partners.md)
+* [Audit](audit.md)
 
 ## Links
 
