@@ -4,7 +4,7 @@ description: Audits for OpenWorld contracts.
 
 # Audit
 
-The OpenWorld contracts have been audited by [TeachRate](https://github.com/TechRate/Smart-Contract-Audits),
+The OpenWorld contracts have been audited by [TechRate](https://github.com/TechRate/Smart-Contract-Audits),
 
 Furthermore, the source code is a fork of GMX.io (former "Gambit"), whose contracts have also been audited by ABDK Consulting and Quantstamp.
 
