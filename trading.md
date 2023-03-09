@@ -104,11 +104,11 @@ The chart will indicate the average of the two mark prices.
 
 ### Fee
 
-The trading fee to open a position is 0.05% of the position size. Similarly, there is a 0.05% trading fee when you close a position.
+The trading fee to open a position is 0.02% of the position size. Similarly, there is a 0.02% trading fee when you close a position.
 
-There is also a "Borrow Fee" that is deducted to your position at the start of every hour. This is the fee paid to the capital provider of your trade (OAP). The fee per hour changes from utilization of the capital by market participants, the formula is: (assets borrowed)/(total assets in pool) \* 0.005%. The "Borrow Fee" for longing or shorting is shown below the swap box.
+There is also a "Borrow Fee" that is deducted to your position at the start of every hour. This is the fee paid to the capital provider of your trade (OAP). The fee per hour changes from utilization of the capital by market participants, the formula is: (assets borrowed)/(total assets in pool) \* 0.002%. The "Borrow Fee" for longing or shorting is shown below the swap box.
 
-The collateral of long positions is the token being longed, for example, ETH longs the collateral is ETH. The collateral of shorts positions is any of the supported stablecoins e.g. BUSD, USDC, etc. If a swap is needed when opening or closing a position then the regular swap fee would apply, this fee is 0.5% to 0.8% of the collateral size.
+The collateral of long positions is the token being longed, for example, ETH longs the collateral is ETH. The collateral of shorts positions is any of the supported stablecoins e.g. BUSD, USDC, etc. If a swap is needed when opening or closing a position then the regular swap fee would apply, this fee is 0.2% to 0.5% of the collateral size.
 
 There are two transactions involved in opening / closing / editing a position:
 
