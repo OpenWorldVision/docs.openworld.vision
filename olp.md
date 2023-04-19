@@ -36,9 +36,12 @@ Token can be purchased directly through Decentralize Exchanges such as PancakeSw
 
 Owning OPEN means you are a contributor and a community member of the project.  Through voting, you can approve or deny changes that we later on introduce to the project.
 
-### Stake OPEN for sOPEN
+### Stake OPEN for stOPEN
 
-In order to access into revenue makes by OpenWorld protocol, you need to stake your OPEN.  After you stake OPEN through our \[Stake Page], you will receive sOPEN as a proof of stake.  The sOPEN you hold is a gateway for you to earn revenue from OpenWorld protocol during the specific monthly time period when you stake.  If you stake OPEN after the earning period has started, you are not eligible to receive a share of your earnings through your sOPEN.  If you unstake your OPEN before the earning period ends, you are not eligible to receive a share of your earnings through your sOPEN.
+In order to access into revenue makes by OpenWorld protocol, you need to stake your OPEN.  After you stake OPEN through our [Stake Page](https://app.openworld.vision/#/earn), you will receive sOPEN as a proof of stake.  The sOPEN you hold is a gateway for you to earn revenue from OpenWorld protocol during the specific monthly time period when you stake.  If you stake OPEN after the earning period has started, you are not eligible to receive a share of your earnings through your sOPEN.  If you unstake your OPEN before the earning period ends, you are not eligible to receive a share of your earnings through your stOPEN.\
+\
+**Notice**: we're not emitting a Transfer event to the zero address here since shares burn works by redistributing the amount of tokens corresponding to the burned shares between all other token holders. The total supply of the token doesn't change as the result. This is equivalent to performing a send from address to each other token holder address, but we cannot reflect this as it would require sending an unbounded number of events.\
+
 
 ### The OAP Token <a href="#overview" id="overview"></a>
 
@@ -54,4 +57,4 @@ OAP's liquidity pools are targeted to balance around certain weights among its a
 
 
 
-#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](https://app.gitbook.com/s/tgJISm30WW6z2kncLqvO/)<mark style="color:orange;"></mark>
+#### :flag\_vn: [<mark style="color:orange;">Vietnamese Edition</mark>](http://localhost:5000/s/tgJISm30WW6z2kncLqvO/)
